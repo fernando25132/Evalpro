@@ -1,0 +1,46 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2
+,Fecha extracción data,2025-12-26 00:00:00
+,Versión,2.0
+,,
+,,
+,Columna,Descripción
+,año,Año asociado a la transferencia
+,mes,Mes asociado a la transferencia (1 a 12)
+,id_vu,Número identificador de establecimiento en Ventanilla Única
+,razon_social,Razón social a la cual pertenece el establecimiento
+,rut_razon_social,RUT asociado a la razón social del establecimiento
+,nombre_establecimiento,Nombre de establecimiento
+,rubro,Rubro del establecimiento
+,rubro_id,Identificador del rubro
+,ciiu4,Clasificación Industrial Internacional Uniforme de todas las actividades económicas nivel 4
+,ciiu4_id,Identificador del ciiu4
+,ciiu6,Clasificación Industrial Internacional Uniforme de todas las actividades económicas nivel 6
+,ciiu6_id,Identificador del ciiu6
+,region,Nombre de la región donde se ubica el establecimiento
+,provincia,Nombre de la provincia donde se ubica el establecimiento
+,comuna,Nombre de la comuna donde se ubica el establecimiento
+,codigo_unico_territorial,Código único asociado a la comuna dónde se ubica el establecimiento
+,latitud,Coordenada de latitud del establecimiento
+,longitud,Coordenada de longitud del establecimiento
+,rol_establecimiento,"Identificador único del tipo de rol del establecimiento en el Sistema Nacional de Declaración de Residuos (Generador Industrial, Generador Municipal, I.R.A.R., o Destinatario Final)."
+,declaracion_id,Identificador único de la declaración de residuos en el SINADER
+,tipo_recepcion,"Clasificación del flujo del residuo desde el establecimiento (1 = Entrada de residuos al establecimiento, 2 = Salida de residuo desde el establecimiento)"
+,cantidad_toneladas,Tonelaje de residuos declarado o estimado
+,tratamiento_n1_id,Identificador de tratamiento primario (gestión)
+,tratamiento_n1_name,Descripción de tratamiento primario
+,tratamiento_n2_id,Identificador de tratamiento secundario 
+,tratamiento_n2_name,Descripción de tratamiento secundario (manejo)
+,tratamiento_n3_id,Identificador de tratamiento terciario
+,tratamiento_n3_name,Descripción de tratamiento terciario (tratamiento)
+,LER,Caracterización del residuo según el Número de Lista Europea de Residuos
+,LER_numero,Caracterización del residuo según el identificador del residuo según Lista Europea
+,LER_capitulo,Caracterización del residuo según el Nombre del capítulo según Lista Europea asociado
+,LER_numero_capitulo,Caracterización del residuo según el Número del capítulo según Lista Europea asociado
+,LER_subcapitulo,Caracterización del residuo según el Nombre del subcapítulo según Lista Europea asociado
+,LER_numero_subcapitulo,Caracterización del residuo según el Número del subcapítulo según Lista Europea asociado
+,trazabilidad__id_vu,Identificador de Ventanilla Única del establecimiento de destino u origen
+,trazabilidad__nombre_establecimiento,Nombre de la instalación de destino u origen
+,trazabilidad__razon_social,Razón social del establecimiento de destino u origen
+,trazabilidad__comuna,Comuna de destino u origen del residuo
+,trazabilidad__region,Región de destino u origen del residuo
+,trazabilidad__pais,País de destino u origen del residuo (si aplica)
