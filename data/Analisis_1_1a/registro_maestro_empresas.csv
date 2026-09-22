@@ -1,0 +1,116 @@
+empresa,fuentes,n_fuentes
+ACEROS AZA S.A.,"competidor_elegido_por_cliente_verde, lista1_disposicion, lista3_valorizacion",3
+CENTRO DE MANEJO INTEGRAL RESIDUOS METROPOLITANOS SPA,"competidor_elegido_por_cliente_verde, lista1_disposicion, lista3_valorizacion",3
+CONSTRUCTORA DE PAVIMENTOS ASFALTICOS BITUMIX S.A,"competidor_elegido_por_cliente_verde, lista1_disposicion, lista3_valorizacion",3
+"INGENIERIA, MOVIMIENTO DE TIERRA Y ARIDOS ECAVAL SPA","competidor_elegido_por_cliente_verde, lista1_disposicion, lista3_valorizacion",3
+PROYECTOS E INGENIERIA RINCONADA S.A.,"competidor_elegido_por_cliente_verde, lista1_disposicion, lista3_valorizacion",3
+REGENERADORA DE MATERIALES DE CONSTRUCCION S A,"competidor_elegido_por_cliente_verde, lista1_disposicion, lista3_valorizacion",3
+SERVICIO MECANIZADO PARA MOVIMIENTO DE TIERRA LIMITADA,"competidor_elegido_por_cliente_verde, lista1_disposicion, lista3_valorizacion",3
+ALMAGRO S A,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+ASESORIA INMOBILIARIA Y SERVICIOS CHL SPA,"competidor_elegido_por_cliente_verde, lista3_valorizacion",2
+ATCO SABINCO S.A,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+CIA ELECTRO METALURGICA S A,"competidor_elegido_por_cliente_verde, lista3_valorizacion",2
+COMERCIAL ROMERELLI LIMITADA,"competidor_elegido_por_cliente_verde, lista3_valorizacion",2
+CONSORCIO DE SALUD SANTIAGO ORIENTE S.A. SOCIEDAD CONCESIONARIA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+CONSORCIO SANTA MARTA S A,"competidor_elegido_por_cliente_verde, lista1_disposicion",2
+CONSTRUCTORA ALMAGRO S A,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+CONSTRUCTORA BESALCO LTDA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+CONSTRUCTORA CONCRETA SPA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+CONSTRUCTORA L Y D S A,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+CRUZ Y MELLADO LIMITADA,"competidor_elegido_por_cliente_verde, lista1_disposicion",2
+EBCO S.A.,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+FUCHS GELLONA Y SILVA S A,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+FUCHS GELLONA Y SILVA SPA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+GUZMAN Y LARRAIN VIVIENDAS ECONOMICAS SPA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+I MUNICIPALIDAD LO BARNECHEA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+INDUSTRIAL Y MINERA LOS ESTEROS LIMITADA,"competidor_elegido_por_cliente_verde, lista1_disposicion",2
+INGENIERIA MAQUINARIAS Y MOVIMIENTOS DE TIERRA INGEX LTDA,"competidor_elegido_por_cliente_verde, lista3_valorizacion",2
+INGENIERIA Y CONSTRUCCIONES INGECOX LIMITADA,"lista1_disposicion, lista3_valorizacion",2
+INMOBILIARIA ALTO HIPODROMO S.A.,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+INMOBILIARIA ERASMO ESCALA SPA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+INMOBILIARIA LATADIA SPA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+INMOBILIARIA PILARES S.A.,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+INMOBILIARIA VIVIENDAS 2000 SPA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+"INMOBILIARIA,AGRICOLA Y COMERCIAL BALTIERRA SOCIEDAD ANONIMA","competidor_elegido_por_cliente_verde, lista1_disposicion",2
+INVERSIONES CORMI LIMITADA,"competidor_elegido_por_cliente_verde, lista1_disposicion",2
+MISIÓN VERDE SPA,"competidor_elegido_por_cliente_verde, lista3_valorizacion",2
+OBRASCON HUARTE LAIN S A AGENCIA EN CHILE,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+PLAZA EGANA SPA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+RUTA DEL MAIPO SOCIEDAD CONCESIONARIA S.A.,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+SACYR CHILE S A,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+SIMONETTI INMOBILIARIA S.A.,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+SOC MINERA ARRIP SA,"competidor_elegido_por_cliente_verde, lista3_valorizacion",2
+SOC MINERA ROSARIO LTDA,"competidor_elegido_por_cliente_verde, lista3_valorizacion",2
+SOC PETREOS S A,"lista1_disposicion, lista3_valorizacion",2
+SOCIEDAD COMERCIALIZADORA DE ARIDOS ECAVAL LIMITADA,"lista1_disposicion, lista3_valorizacion",2
+SOCIEDAD CONCESIONARIA HOSPITAL BUIN PAINE S.A.,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+SOCIEDAD DE PROCESAMIENTOS INDUSTRIALES SA,"competidor_elegido_por_cliente_verde, lista3_valorizacion",2
+TERRAMAC SPA,"lista1_disposicion, lista3_valorizacion",2
+TRABUN INGENIERIA AMBIENTAL Y CONSTRUCCION SPA,"competidor_elegido_por_cliente_verde, lista1_disposicion",2
+TRANSPORTES Y EXCAVACIONES LTDA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+VICENTE VALDES SPA,"lista2_cliente_verde_magnitud, lista2_cliente_verde_pct",2
+AGRICOLA ALEJANDRO SERANI E.I.R.L,competidor_elegido_por_cliente_verde,1
+ARIDOS NORMALIZADOS RIO MAIPO LIMITADA,lista1_disposicion,1
+ARRENDAMIENTOS INDEPENDENCIA 4.745 SPA,lista2_cliente_verde_pct,1
+ATLAS,proveedor_downstream_regemac_materiales_excel,1
+CIA MINERA SANTA LAURA LIMITADA,lista1_disposicion,1
+COMERCIAL PRAXEDES DEL ROSARIO PIZARRO LANDERO SPA,competidor_elegido_por_cliente_verde,1
+COMERCIAL RIO ACONCAGUA SPA,competidor_elegido_por_cliente_verde,1
+COMERCIAL ROMERELLI,proveedor_downstream_regemac_materiales_excel,1
+CONSORCIO SANTA MARTA,proveedor_downstream_regemac_materiales_excel,1
+CONSTRUCTORA ASFALCURA SPA,competidor_elegido_por_cliente_verde,1
+CONSTRUCTORA LAMPA ORIENTE S.A.,lista3_valorizacion,1
+CRISTALERIAS DE CHILE S A,lista3_valorizacion,1
+CRISTALERIAS TORO SPA,lista3_valorizacion,1
+DEMARCO S.A.,competidor_elegido_por_cliente_verde,1
+DESARROLLOS CONSTRUCTIVOS AXIS S A,lista2_cliente_verde_pct,1
+DIFEZA,proveedor_downstream_regemac_materiales_excel,1
+ECO CICLO,proveedor_downstream_regemac_materiales_excel,1
+ECOENGRANAJE,proveedor_downstream_regemac_materiales_excel,1
+ECOFERRO SPA,competidor_elegido_por_cliente_verde,1
+EXXAN SPA,lista3_valorizacion,1
+FIERRO,proveedor_downstream_regemac_materiales_excel,1
+FIERROS SPA,proveedor_downstream_regemac_materiales_excel,1
+FUNDINOX CHILE SA,competidor_elegido_por_cliente_verde,1
+GESTION ECOLOGICA DE RESIDUOS S A,competidor_elegido_por_cliente_verde,1
+GOMPLAS SPA,lista3_valorizacion,1
+GREENDOT SPA,competidor_elegido_por_cliente_verde,1
+GREENPLAST SPA,competidor_elegido_por_cliente_verde,1
+ICAFAL INGENIERIA Y CONSTRUCCION S A,lista2_cliente_verde_magnitud,1
+INDUSTRIA PROCESADORA,proveedor_downstream_regemac_materiales_excel,1
+INMOBILIARIA E INVERSIONES DOS M LIMITADA,lista3_valorizacion,1
+INPROPLAS,proveedor_downstream_regemac_materiales_excel,1
+INTEGRALSTART  SPA,competidor_elegido_por_cliente_verde,1
+K D M  S.A.,competidor_elegido_por_cliente_verde,1
+LAMPA SPA,competidor_elegido_por_cliente_verde,1
+LOS FIERROS SPA,proveedor_downstream_regemac_materiales_excel,1
+LOS MAITENES SPA,competidor_elegido_por_cliente_verde,1
+LOS OLIVOS SERVICIOS DE MAQUINARIAS Y CONSTRUCCIÓN LIMITADA,lista1_disposicion,1
+MAGOTTEAUX ANDINO S.A.,competidor_elegido_por_cliente_verde,1
+MARCELO PAOLO JARA VARGAS RECICLAJE INTEGRAL ECOCICLO E.I.R.L.,competidor_elegido_por_cliente_verde,1
+MARIO MARCELO LAZO BARAHONA,competidor_elegido_por_cliente_verde,1
+MOLYMETNOS S.A.,lista3_valorizacion,1
+NOLBERTO ORLANDO SUAREZ,competidor_elegido_por_cliente_verde,1
+PLASTICO,proveedor_downstream_regemac_materiales_excel,1
+PLASTICOS VND,proveedor_downstream_regemac_materiales_excel,1
+POLAMBIENTE,proveedor_downstream_regemac_materiales_excel,1
+RECICLADORA 2020 SPA,competidor_elegido_por_cliente_verde,1
+RECICLADOS INDUSTRIALES,proveedor_downstream_regemac_materiales_excel,1
+RECICLADOS INDUSTRIALES S.A,competidor_elegido_por_cliente_verde,1
+RECICLAJES INDUSTRIALES S A,competidor_elegido_por_cliente_verde,1
+RECICLAJES RECICLADOS LIMITADA,competidor_elegido_por_cliente_verde,1
+RECUPAC,proveedor_downstream_regemac_materiales_excel,1
+RECUPAC S.A.,competidor_elegido_por_cliente_verde,1
+RECYCLING S.A.,competidor_elegido_por_cliente_verde,1
+REMBRE,proveedor_downstream_regemac_materiales_excel,1
+REMBRE SPA.,competidor_elegido_por_cliente_verde,1
+RESIMEX SOCIEDAD ANONIMA,competidor_elegido_por_cliente_verde,1
+RESITER INDUSTRIAL S.A.,competidor_elegido_por_cliente_verde,1
+RS CONSTRUCCIONES SPA,proveedor_downstream_regemac_materiales_excel,1
+SOCIEDAD COMERCIAL DE TRANSPORTES Y COMPRAVENTA PECH LIMITADA,competidor_elegido_por_cliente_verde,1
+SOCIEDAD COMERCIALIZADORA DE DESECHOS METALICOS Y PAPELES RECICLOM LIM,competidor_elegido_por_cliente_verde,1
+SOCIEDAD COMERCIALIZADORA DE METALES CHAVARRIA Y CHAVARRIA LIMITADA,competidor_elegido_por_cliente_verde,1
+SOCIEDAD DE PROCESAMIENTOS INDUSTRIALES LIMITADA,competidor_elegido_por_cliente_verde,1
+SUPERINTENDENCIA DEL MEDIO AMBIENTE,competidor_elegido_por_cliente_verde,1
+Sud Trade SPA,proveedor_downstream_regemac_materiales_excel,1
+TRANSER SPA,proveedor_downstream_regemac_materiales_excel,1
