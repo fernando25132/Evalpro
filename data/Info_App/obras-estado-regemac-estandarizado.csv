@@ -1,0 +1,1074 @@
+﻿obra_id,obra_nombre,fecha_apertura,fecha_cierre,estado_actual,n_eventos_registrados,duracion_meses,volumen,total_retiros_2021_2026,n_meses_con_retiros,retiros_promedio_mes_activo,flag_estado_discrepante,flag_n_eventos_no_coincide,flag_sin_apertura_registrada,nombre_variantes_detectadas,fecha_primer_retiro_guias,fecha_ultimo_retiro_guias
+3695,,antes de 2021,,cerrada,0.0,,,0,0,,False,False,True,0,,
+3735,,antes de 2021,,cerrada,0.0,,,0,0,,False,False,True,0,,
+3774,3774 Campus Santander (GREENREC),antes de 2021,,suspendida,0.0,,9.0,691,20,34.55,False,False,True,1,2024-03-08,2025-10-03
+3775,3775 Campus Santander (MADERA),antes de 2021,,suspendida,0.0,,9.0,87,17,5.12,False,False,True,1,2024-03-08,2025-10-02
+3776,,antes de 2021,,suspendida,0.0,,,0,0,,False,False,True,0,,
+3779,,antes de 2021,,cerrada,0.0,,,0,0,,False,False,True,0,,
+3806,,antes de 2021,,cerrada,0.0,,,0,0,,False,False,True,0,,
+3807,,antes de 2021,,cerrada,0.0,,,0,0,,False,False,True,0,,
+3808,,antes de 2021,,cerrada,0.0,,,0,0,,False,False,True,0,,
+3820,3820 San Nicolas Madera,antes de 2021,,suspendida,0.0,,,2,1,2.0,False,False,True,1,2024-06-04,2024-06-06
+3821,,antes de 2021,,cerrada,0.0,,,0,0,,False,False,True,0,,
+3822,,antes de 2021,,cerrada,0.0,,,0,0,,False,False,True,0,,
+3823,,antes de 2021,,cerrada,0.0,,,0,0,,False,False,True,0,,
+3852,3852 Chicauma 2,antes de 2021,,cerrada,0.0,,,1,1,1.0,False,False,True,1,2024-07-26,2024-07-26
+3893,,antes de 2021,,cerrada,0.0,,,0,0,,False,False,True,0,,
+3925,,antes de 2021,,,0.0,,0.0,0,0,,False,False,True,0,,
+4085,,antes de 2021,,,0.0,,,0,0,,True,False,True,0,,
+4091,,antes de 2021,,,0.0,,,0,0,,True,False,True,0,,
+4136,,antes de 2021,,,0.0,,,0,0,,True,False,True,0,,
+4138,,antes de 2021,,,0.0,,,0,0,,True,False,True,0,,
+4139,4139 Edificio Ciudadano Prat,antes de 2021,,,0.0,,9.0,71,5,14.2,True,False,True,1,2026-04-02,2026-08-31
+4140,4140 I- 1518 Arrayanes V,antes de 2021,,,0.0,,10.0,26,5,5.2,True,False,True,1,2026-04-01,2026-08-26
+4141,4141 Construcción y Remodelación Centro Achs Quilicura,antes de 2021,,,0.0,,10.0,33,5,6.6,True,False,True,1,2026-04-07,2026-08-28
+4173,,antes de 2021,,,0.0,,,0,0,,True,False,True,0,,
+4191,,antes de 2021,,,0.0,,,0,0,,True,False,True,0,,
+4193,,antes de 2021,,,,,,0,0,,False,True,True,0,,
+4194,,antes de 2021,,,,,,0,0,,False,True,True,0,,
+4195,,antes de 2021,,,,,,0,0,,False,True,True,0,,
+4196,,antes de 2021,,,,,,0,0,,False,True,True,0,,
+4197,,antes de 2021,,,,,,0,0,,False,True,True,0,,
+4198,,antes de 2021,,,,,,0,0,,False,True,True,0,,
+4199,,antes de 2021,,,,,,0,0,,False,True,True,0,,
+4200,,antes de 2021,,,,,,0,0,,False,True,True,0,,
+4201,,antes de 2021,,,,,,0,0,,False,True,True,0,,
+4202,,antes de 2021,,,,,,0,0,,False,True,True,0,,
+324,Estructuras Metálicas,2021-01,,activa,1.0,,10.0,196,67,2.93,False,False,False,3,2021-01-12,2026-08-21
+645,Bodega Pudahuel Maqsa,2021-01,,activa,1.0,,10.0,354,68,5.21,False,False,False,4,2021-01-06,2026-08-28
+996,Agricola Ariztia,2021-01,2025-11,cerrada,2.0,59.0,10.0,151,57,2.65,False,False,False,4,2021-01-13,2025-10-13
+1271,RMD Kwikform Chile S.A.,2021-01,2023-11,cerrada,2.0,35.0,,170,34,5.0,False,False,False,2,2021-01-07,2024-08-26
+1745,Carolina Rabbat Etapa 5,2021-01,2025-04,cerrada,2.0,52.0,10.0,24,20,1.2,False,False,False,3,2021-01-05,2025-11-20
+2190,Ciudad Del Sol Etapa 8.1,2021-01,,activa,1.0,,10.0,528,63,8.38,False,False,False,4,2021-01-13,2026-08-24
+2257,Minera Trucco,2021-01,,activa,1.0,,9.0,164,61,2.69,False,False,False,3,2021-01-19,2026-08-06
+2394,A Muebles,2021-01,,activa,1.0,,10.0,120,68,1.76,False,False,False,3,2021-01-07,2026-08-17
+2405,OP05 - Obra/Barrio Parque Santiago T05,2021-01,2022-04,,2.0,16.0,,89,15,5.93,False,False,False,1,2021-01-04,2022-03-25
+2435,Soc. Industrial Romeral,2021-01,,activa,1.0,,10.0,5653,68,83.13,False,False,False,4,2021-01-04,2026-08-28
+2497,Chicauma Ciudad del Parque Etapa 3.1,2021-01,,activa,1.0,,10.0,2298,68,33.79,False,False,False,4,2021-01-04,2026-08-31
+2519,Bodega Central,2021-01,2022-09,,2.0,21.0,,49,18,2.72,False,False,False,1,2021-01-06,2022-08-01
+2580,Dictuc UC,2021-01,,activa,1.0,,9.0,84,58,1.45,False,False,False,4,2021-01-19,2026-08-04
+2631,Huertos de Buin,2021-01,2023-12,cerrada,2.0,36.0,,225,35,6.43,False,False,False,1,2021-01-07,2023-11-30
+2632,Altos de Buin,2021-01,2024-03,cerrada,2.0,39.0,,251,38,6.61,False,False,False,2,2021-01-04,2024-02-01
+2633,Bodega Las Acacias,2021-01,,activa,1.0,,10.0,121,60,2.02,False,False,False,5,2021-01-25,2026-08-10
+2657,Bodega Las Acacias,2021-01,,activa,1.0,,10.0,208,67,3.1,False,False,False,5,2021-01-05,2026-08-11
+2667,Bodega Cimm,2021-01,,activa,1.0,,10.0,519,60,8.65,False,False,False,4,2021-01-08,2026-08-14
+2687,Aceros Chile Planta Puente Alto,2021-01,2021-05,,2.0,5.0,,3,3,1.0,False,False,False,1,2021-01-07,2021-04-16
+2693,Portones De Chicureo,2021-01,2024-03,cerrada,2.0,39.0,,194,38,5.11,False,False,False,3,2021-01-14,2024-02-01
+2715,La Reserva De La Dehesa,2021-01,2021-10,,2.0,10.0,,13,8,1.62,False,False,False,1,2021-01-05,2021-09-07
+2726,Edificio 2 de Oficina La Dehesa,2021-01,2022-08,,2.0,20.0,,244,19,12.84,False,False,False,1,2021-01-04,2022-07-19
+2733,Bodega Post-Venta,2021-01,,activa,1.0,,10.0,149,68,2.19,False,False,False,4,2021-01-07,2026-08-25
+2825,Nuevo El Golf,2021-01,2022-03,,2.0,15.0,,147,14,10.5,False,False,False,1,2021-01-04,2022-02-08
+2852,Territoria Apoquindo,2021-01,2021-05,,2.0,5.0,,96,4,24.0,False,False,False,1,2021-01-04,2021-04-30
+2876,Condominio Newen I,2021-01,2022-08,,2.0,20.0,,163,19,8.58,False,False,False,1,2021-01-05,2022-07-29
+2902,0182 Edificio Irarrazaval,2021-01,2021-10,,2.0,10.0,,11,7,1.57,False,False,False,1,2021-01-11,2021-09-21
+2904,Pedro Alarcon,2021-01,2022-04,,2.0,16.0,,79,15,5.27,False,False,False,1,2021-01-05,2022-03-10
+2921,Puerto De Chicureo,2021-01,2022-07,,2.0,19.0,,125,18,6.94,False,False,False,1,2021-01-06,2022-06-30
+2941,2941 Planta LA Pintana,2021-01,,activa,1.0,,10.0,139,60,2.32,False,False,False,6,2021-01-08,2026-08-28
+2965,Entrega de Casas Valle Lo Campino,2021-01,2026-05,activa,2.0,65.0,10.0,117,62,1.89,True,False,False,4,2021-01-11,2026-04-27
+2976,Plaza Ñuñoa,2021-01,2021-02,,2.0,2.0,,1,1,1.0,False,False,False,1,2021-01-08,2021-01-08
+2980,CF4026 PSD Torre 4,2021-01,2021-04,,2.0,4.0,,16,3,5.33,False,False,False,1,2021-01-04,2021-03-17
+2984,Plaza La Florida,2021-01,2021-10,,2.0,10.0,,145,9,16.11,False,False,False,1,2021-01-05,2021-09-30
+2992,Vespucio Macul Torre D,2021-01,2023-07,cerrada,2.0,31.0,,504,30,16.8,False,False,False,2,2021-01-05,2023-06-29
+2998,Edificio Facultad de Administracion y Economia FAE,2021-01,2021-02,,2.0,2.0,,5,1,5.0,False,False,False,1,2021-01-06,2021-01-25
+3024,1546 Fernandez Albano,2021-01,2021-03,,2.0,3.0,,19,2,9.5,False,False,False,1,2021-01-04,2021-02-02
+3029,Edificio de Deportes CDUC,2021-01,2021-10,,2.0,10.0,,73,9,8.11,False,False,False,1,2021-01-05,2021-09-13
+3037,Colon 4947,2021-01,2021-12,,2.0,12.0,,31,11,2.82,False,False,False,1,2021-01-06,2021-11-12
+3046,Edificio El Aguilucho,2021-01,2022-06,,2.0,18.0,,168,17,9.88,False,False,False,1,2021-01-04,2022-05-11
+3051,Parque Inundable Intercomunal Victor Jara,2021-01,2021-08,,2.0,8.0,,56,7,8.0,False,False,False,1,2021-01-07,2021-07-12
+3054,Edificio Alvarez de Toledo,2021-01,2022-02,,2.0,14.0,,89,13,6.85,False,False,False,1,2021-01-05,2022-01-27
+3058,Edificio Lerida,2021-01,2021-02,,2.0,2.0,,2,1,2.0,False,False,False,1,2021-01-06,2021-01-21
+3063,Padre Werner,2021-01,2022-09,,2.0,21.0,,388,20,19.4,False,False,False,2,2021-01-04,2022-08-01
+3073,Ciudadano Montt,2021-01,2021-02,,2.0,2.0,,1,1,1.0,False,False,False,1,2021-01-04,2021-01-04
+3074,Walker Martinez,2021-01,2021-03,,2.0,3.0,,13,2,6.5,False,False,False,1,2021-01-04,2021-02-26
+3079,Edificio Varas Mena,2021-01,2021-03,,2.0,3.0,,6,2,3.0,False,False,False,1,2021-01-05,2021-02-26
+3080,1 CL344- LACRIM Central PDI Chile,2021-01,2021-09,,2.0,9.0,,165,8,20.62,False,False,False,1,2021-01-04,2021-08-20
+3083,Vicente Huidobro,2021-01,2021-10,,2.0,10.0,,101,9,11.22,False,False,False,1,2021-01-04,2021-09-29
+3084,CF 4006 Edificios,2021-01,2023-08,cerrada,2.0,32.0,,83,19,4.37,False,False,False,1,2021-01-04,2023-07-31
+3089,Edificio Lumina,2021-01,2021-07,,2.0,7.0,,95,6,15.83,False,False,False,1,2021-01-04,2021-06-09
+3091,Vista Albano,2021-01,2021-06,,2.0,6.0,,128,5,25.6,False,False,False,1,2021-01-04,2021-05-07
+3100,Urbano Bustamante,2021-01,2022-04,,2.0,16.0,,186,15,12.4,False,False,False,1,2021-01-05,2022-03-22
+3110,El Gabino,2021-01,2021-04,,2.0,4.0,,15,3,5.0,False,False,False,1,2021-01-18,2021-03-12
+3116,Edificio Laguna Centro Torre G,2021-01,2022-08,,2.0,20.0,,258,18,14.33,False,False,False,1,2021-01-04,2022-07-22
+3120,Condominio San Carlos,2021-01,2021-04,,2.0,4.0,,3,2,1.5,False,False,False,1,2021-01-08,2021-03-23
+3122,Casa El Arrayan,2021-01,2021-06,,2.0,6.0,,60,5,12.0,False,False,False,1,2021-01-04,2021-05-31
+3132,Post Venta,2021-01,,activa,1.0,,10.0,225,68,3.31,False,False,False,3,2021-01-06,2026-08-18
+3133,Colores del Abra 2,2021-01,2021-09,,2.0,9.0,,183,8,22.88,False,False,False,1,2021-01-04,2021-08-20
+3134,Vista Aconcagua Los Andes,2021-01,2021-05,,2.0,5.0,,8,3,2.67,False,False,False,1,2021-01-14,2021-04-29
+3138,Luis Beltran,2021-01,2021-02,,2.0,2.0,,1,1,1.0,False,False,False,1,2021-01-07,2021-01-07
+3140,Lote 32 C,2021-01,2022-01,,2.0,13.0,,80,12,6.67,False,False,False,1,2021-01-08,2021-12-14
+3141,Obra Zañartu Edificio Vitro,2021-01,2022-02,,2.0,14.0,,477,13,36.69,False,False,False,1,2021-01-04,2022-01-12
+3142,Industrial Pizarreño,2021-01,,activa,1.0,,10.0,770,67,11.49,False,False,False,4,2021-01-04,2026-08-31
+3143,Hotel MO Santiago,2021-01,2021-09,,2.0,9.0,,18,8,2.25,False,False,False,1,2021-01-25,2021-08-13
+3145,Linea 2 Tramo 3 Metro de Santiago,2021-01,2024-02,cerrada,2.0,38.0,9.0,453,37,12.24,False,False,False,2,2021-01-04,2024-01-30
+3146,Linea 2 Tramo 3 Metro de Santiago,2021-01,2021-06,,2.0,6.0,,6,4,1.5,False,False,False,1,2021-01-15,2021-05-14
+3148,Inacap La Granja,2021-01,2022-09,,2.0,21.0,,299,20,14.95,False,False,False,1,2021-01-04,2022-08-31
+3149,Villagra,2021-01,2022-06,,2.0,18.0,,201,17,11.82,False,False,False,1,2021-01-04,2022-05-31
+3151,Edificio Santo Toribio,2021-01,2021-06,,2.0,6.0,,64,5,12.8,False,False,False,1,2021-01-04,2021-05-03
+3152,165 Lo Fontecilla,2021-01,2022-12,,2.0,24.0,,314,23,13.65,False,False,False,1,2021-01-04,2022-11-11
+3153,Los Olmos,2021-01,2022-04,,2.0,16.0,,207,15,13.8,False,False,False,1,2021-01-04,2022-03-31
+3156,Taller Central ICEM,2021-01,2021-04,,2.0,4.0,,5,3,1.67,False,False,False,1,2021-01-12,2021-03-26
+3157,Santa Isabel,2021-01,2021-02,,2.0,2.0,,9,1,9.0,False,False,False,1,2021-01-05,2021-01-08
+3162,OSMA Obra Santa Maria Office,2021-01,2022-02,,2.0,14.0,,91,12,7.58,False,False,False,1,2021-01-06,2022-01-31
+3165,Condominio Los Lirios,2021-01,2021-08,,2.0,8.0,,69,7,9.86,False,False,False,1,2021-01-15,2021-07-02
+3166,Condominio Cerro La Cruz Lote D-7A,2021-01,2023-07,cerrada,2.0,31.0,,311,30,10.37,False,False,False,1,2021-01-05,2023-06-09
+3169,Edificio Matucana 2,2021-01,2022-04,,2.0,16.0,,356,15,23.73,False,False,False,1,2021-01-04,2022-03-24
+3174,Puente Nuevo,2021-01,2023-05,cerrada,2.0,29.0,,240,27,8.89,False,False,False,1,2021-01-06,2023-04-04
+3176,Medicina UDD,2021-01,2022-04,,2.0,16.0,,200,15,13.33,False,False,False,1,2021-01-04,2022-03-04
+3177,Edificio Pucara 2,2021-01,2021-04,,2.0,4.0,,9,3,3.0,False,False,False,1,2021-01-07,2021-03-19
+3178,Obra Archiplan,2021-01,2022-06,,2.0,18.0,,216,17,12.71,False,False,False,1,2021-01-04,2022-05-31
+3181,Lyon Luterano,2021-01,2021-08,,2.0,8.0,,71,7,10.14,False,False,False,1,2021-01-04,2021-07-23
+3182,PSD Torre 6 Vitacura 2,2021-01,2022-06,,2.0,18.0,,309,17,18.18,False,False,False,1,2021-01-04,2022-05-05
+3184,Casas Lo Fontecilla,2021-01,2022-04,,2.0,16.0,,101,15,6.73,False,False,False,1,2021-01-06,2022-03-15
+3185,Edificio Alto Mapocho,2021-01,2022-09,,2.0,21.0,,170,19,8.95,False,False,False,1,2021-01-04,2022-08-26
+3187,Carlos Alvarado,2021-01,2021-10,,2.0,10.0,,68,9,7.56,False,False,False,1,2021-01-04,2021-09-06
+3190,7EI/FA/Edificio Edoc Usach,2021-01,2021-03,,2.0,3.0,,7,2,3.5,False,False,False,1,2021-01-07,2021-02-12
+3194,1B9T/Metropolitana Puente Alto,2021-01,2021-09,,2.0,9.0,,55,8,6.88,False,False,False,1,2021-01-04,2021-08-09
+3198,Edificio Ecuador,2021-01,2021-09,,2.0,9.0,,49,7,7.0,False,False,False,1,2021-01-05,2021-08-19
+3199,Edificio Toro Mozotte,2021-01,2022-07,,2.0,19.0,,176,16,11.0,False,False,False,1,2021-01-04,2022-06-29
+3200,Edificio Jorge Caceres,2021-01,2021-06,,2.0,6.0,,66,5,13.2,False,False,False,1,2021-01-04,2021-05-27
+3202,Edificio Neveria,2021-01,2021-06,,2.0,6.0,,35,5,7.0,False,False,False,1,2021-01-06,2021-05-06
+3203,Los Almendros,2021-01,2022-01,,2.0,13.0,,197,12,16.42,False,False,False,1,2021-01-05,2021-12-27
+3204,Edificio Zavala,2021-01,2021-02,,2.0,2.0,,1,1,1.0,False,False,False,1,2021-01-14,2021-01-14
+3205,Edificio Holanda,2021-01,2021-03,,2.0,3.0,,6,2,3.0,False,False,False,1,2021-01-07,2021-02-10
+3206,1000/Edificio Neus,2021-01,2021-02,,2.0,2.0,,6,1,6.0,False,False,False,1,2021-01-04,2021-01-11
+3210,Linea 2 Tramo 3 Metro De Santiago,2021-01,2021-08,,2.0,8.0,,10,5,2.0,False,False,False,1,2021-01-29,2021-07-20
+3211,Bodega Mosaico,2021-01,2021-08,,2.0,8.0,,22,7,3.14,False,False,False,1,2021-01-13,2021-07-20
+3212,CCU 100,2021-01,2023-01,,2.0,25.0,,282,24,11.75,False,False,False,1,2021-01-04,2022-12-12
+3214,Ed. Juan Moya,2021-01,2021-11,,2.0,11.0,,104,10,10.4,False,False,False,1,2021-01-04,2021-10-18
+3215,CF 4032 La Aurora,2021-01,2021-06,,2.0,6.0,,30,5,6.0,False,False,False,1,2021-01-05,2021-05-12
+3217,Coronel Alvarado,2021-01,2021-11,,2.0,11.0,,77,10,7.7,False,False,False,1,2021-01-04,2021-10-14
+3218,Ed. Aliwen,2021-01,2021-06,,2.0,6.0,,25,4,6.25,False,False,False,1,2021-01-04,2021-05-04
+3221,Los Huertos De La Pintana,2021-01,2021-06,,2.0,6.0,,27,5,5.4,False,False,False,1,2021-01-04,2021-05-31
+3222,Edificio Ebano,2021-01,2021-04,,2.0,4.0,,18,3,6.0,False,False,False,1,2021-01-06,2021-03-10
+3224,Lote 21 A,2021-01,2024-05,cerrada,2.0,41.0,10.0,1041,41,25.39,False,False,False,3,2021-01-07,2025-07-25
+3226,Bodega Maipu,2021-01,2024-02,cerrada,2.0,38.0,,80,33,2.42,False,False,False,2,2021-01-08,2023-12-11
+3227,Brisas del Parque,2021-01,2021-08,,2.0,8.0,,38,7,5.43,False,False,False,1,2021-01-04,2021-07-08
+3231,Sazie,2021-01,2021-03,,2.0,3.0,,16,2,8.0,False,False,False,1,2021-01-05,2021-02-09
+3234,Eco Estacion,2021-01,2021-11,,2.0,11.0,,151,10,15.1,False,False,False,1,2021-01-04,2021-10-19
+3237,Datacenter Liray,2021-01,2022-11,,2.0,23.0,,176,21,8.38,False,False,False,1,2021-01-04,2022-10-05
+3239,Emblema Bicentenario,2021-01,2022-12,,2.0,24.0,,201,19,10.58,False,False,False,1,2021-01-04,2022-11-03
+3241,Edificio Los Clarines,2021-01,2021-07,,2.0,7.0,,73,6,12.17,False,False,False,1,2021-01-05,2021-06-30
+3242,Alba De Campino Etapa 5 C03,2021-01,2021-09,,2.0,9.0,,53,8,6.62,False,False,False,1,2021-01-07,2021-08-19
+3243,Mirador Vizcachas,2021-01,2022-09,,2.0,21.0,,129,20,6.45,False,False,False,1,2021-01-05,2022-08-22
+3246,Habilitacion Falabella Parque Arauco,2021-01,2021-08,,2.0,8.0,,115,7,16.43,False,False,False,1,2021-01-05,2021-07-15
+3247,Santa Elena,2021-01,2022-06,,2.0,18.0,,170,17,10.0,False,False,False,1,2021-01-12,2022-05-17
+3248,Lote 32 D,2021-01,2022-06,,2.0,18.0,,158,17,9.29,False,False,False,1,2021-01-06,2022-05-20
+3249,Altos del Bosque Etapa 036,2021-01,2021-08,,2.0,8.0,,102,7,14.57,False,False,False,1,2021-01-05,2021-07-29
+3250,Biblioteca UAI,2021-01,2022-05,,2.0,17.0,,153,16,9.56,False,False,False,1,2021-01-06,2022-04-13
+3253,Seminario,2021-01,2021-02,,2.0,2.0,,3,1,3.0,False,False,False,1,2021-01-05,2021-01-07
+3255,Const. Nueva Sede Del Coordinador Elect. Nacional,2021-01,2022-08,,2.0,20.0,,609,18,33.83,False,False,False,1,2021-01-04,2022-07-25
+3256,Infra Condominio Alto Las Perdices (Casas),2021-01,2022-08,,2.0,20.0,,176,15,11.73,False,False,False,1,2021-01-06,2022-07-13
+3257,Martin de Zamora,2021-01,2022-11,,2.0,23.0,,316,21,15.05,False,False,False,1,2021-01-05,2022-10-24
+3258,Edificio Lota Suecia,2021-01,2022-03,,2.0,15.0,,160,14,11.43,False,False,False,1,2021-01-04,2022-02-15
+3262,Proyecto Ed. Duble Almeyda,2021-01,2021-09,,2.0,9.0,,56,8,7.0,False,False,False,1,2021-01-07,2021-08-23
+3263,Ed. Connection,2021-01,2022-06,,2.0,18.0,,235,17,13.82,False,False,False,1,2021-01-06,2022-05-18
+3265,Ed. Carvajal,2021-01,2023-04,cerrada,2.0,28.0,,212,27,7.85,False,False,False,1,2021-01-06,2023-03-07
+3266,Edificio Mar Jonico,2021-01,2021-12,,2.0,12.0,,88,11,8.0,False,False,False,1,2021-01-04,2021-11-08
+3267,163 Parroquia San Alberto Hurtado,2021-01,2023-04,cerrada,2.0,28.0,,84,27,3.11,False,False,False,1,2021-01-04,2023-03-09
+3270,141 Las Palmeras De Peñaflor,2021-01,2021-07,,2.0,7.0,,13,6,2.17,False,False,False,1,2021-01-12,2021-06-11
+3272,Edificio Goycolea,2021-01,2022-01,,2.0,13.0,,33,6,5.5,False,False,False,1,2021-01-07,2021-12-10
+3273,Edificio Departamental,2021-01,2023-05,cerrada,2.0,29.0,,319,23,13.87,False,False,False,1,2021-01-04,2023-04-20
+3274,140 Edificio Roman Diaz,2021-01,2022-12,,2.0,24.0,,86,16,5.38,False,False,False,1,2021-01-05,2022-11-09
+3275,Edificio Eucaliptus,2021-01,2021-09,,2.0,9.0,,79,8,9.88,False,False,False,1,2021-01-04,2021-08-06
+3276,188 Quebrada Del Maipo,2021-01,2021-05,,2.0,5.0,,20,4,5.0,False,False,False,1,2021-01-04,2021-04-30
+3277,Centro de Distribucion FOOD Service,2021-01,2021-03,,2.0,3.0,,22,2,11.0,False,False,False,1,2021-01-04,2021-02-02
+3278,Ed. 810 De Economia PUC Campus San Joaquin,2021-01,2021-10,,2.0,10.0,,112,9,12.44,False,False,False,1,2021-01-04,2021-09-15
+3279,809 Post-Venta ING,2021-01,2021-02,,2.0,2.0,,3,1,3.0,False,False,False,1,2021-01-05,2021-01-20
+3280,001 AYC SV Y PIL Pilotos (Aires de Chicureo),2021-01,2023-02,,2.0,26.0,,318,25,12.72,False,False,False,1,2021-01-11,2023-01-30
+3281,160 Matta Central (Quilicura),2021-01,2021-08,,2.0,8.0,,44,7,6.29,False,False,False,1,2021-01-07,2021-07-30
+3283,189 Aires De Maipo,2021-01,2022-12,,2.0,24.0,,156,23,6.78,False,False,False,1,2021-01-08,2022-11-22
+3284,Los Robles La Cisterna,2021-01,2022-01,,2.0,13.0,,102,12,8.5,False,False,False,1,2021-01-04,2021-12-20
+3285,Post Venta Los Andes TF,2021-01,2022-01,,2.0,13.0,,9,6,1.5,False,False,False,1,2021-01-05,2021-12-03
+3287,Edificio Los Colonos,2021-01,2021-09,,2.0,9.0,,54,8,6.75,False,False,False,1,2021-01-06,2021-08-17
+3290,Alameda Pastor,2021-01,2022-08,,2.0,20.0,,437,18,24.28,False,False,False,1,2021-01-04,2022-07-22
+3291,Urbano Park,2021-01,2022-11,,2.0,23.0,,99,19,5.21,False,False,False,1,2021-01-08,2022-10-07
+3292,Parque Colon,2021-01,2021-11,,2.0,11.0,,36,10,3.6,False,False,False,1,2021-01-07,2021-10-14
+3293,Faena 215 Edificio Pocuro,2021-01,2022-04,,2.0,16.0,,196,15,13.07,False,False,False,1,2021-01-04,2022-03-03
+3294,TH Roberto Peragallo,2021-01,2021-02,,2.0,2.0,,4,1,4.0,False,False,False,1,2021-01-04,2021-01-22
+3295,TH New Park,2021-01,2021-07,,2.0,7.0,,30,6,5.0,False,False,False,1,2021-01-04,2021-06-25
+3296,Los Ilanes Oficinas,2021-01,2021-08,,2.0,8.0,,35,6,5.83,False,False,False,1,2021-01-05,2021-07-02
+3297,Latadia - 269,2021-01,2022-07,,2.0,19.0,,141,18,7.83,False,False,False,1,2021-01-11,2022-06-06
+3298,Bupa,2021-01,2021-07,,2.0,7.0,,65,6,10.83,False,False,False,1,2021-01-04,2021-06-09
+3299,I-1516 Arrayanes de Nos III,2021-01,2022-04,,2.0,16.0,,78,15,5.2,False,False,False,1,2021-01-04,2022-03-16
+3300,TH Aguirre Luco,2021-01,2022-03,,2.0,15.0,,63,14,4.5,False,False,False,1,2021-01-07,2022-02-16
+3302,Condominio Lago Ranco,2021-01,2021-10,,2.0,10.0,,65,9,7.22,False,False,False,1,2021-01-13,2021-09-07
+3303,1545 Zañartu,2021-01,2021-04,,2.0,4.0,,2,2,1.0,False,False,False,1,2021-01-26,2021-03-23
+3304,Occ Oficina de Obra,2021-01,2023-08,cerrada,2.0,32.0,,37,26,1.42,False,False,False,1,2021-01-12,2023-07-14
+3305,Edificio Rotonda Atenas,2021-01,2023-01,,2.0,25.0,,329,24,13.71,False,False,False,1,2021-01-04,2022-12-29
+3306,Juan Pablo II,2021-01,2024-01,cerrada,2.0,37.0,,423,34,12.44,False,False,False,3,2021-01-07,2024-02-06
+3307,Consistorial La Florida,2021-01,2021-07,,2.0,7.0,,21,6,3.5,False,False,False,1,2021-01-12,2021-06-23
+3308,Antupiren 10001,2021-01,2022-05,,2.0,17.0,,285,16,17.81,False,False,False,1,2021-01-14,2022-04-29
+3309,Condominio Edwards,2021-01,2022-07,,2.0,19.0,,129,18,7.17,False,False,False,1,2021-01-04,2022-06-10
+3310,256 El Rosal Oriente II,2021-01,2021-06,,2.0,6.0,,20,5,4.0,False,False,False,1,2021-01-12,2021-05-25
+3312,UAI ETO,2021-01,2021-07,,2.0,7.0,,12,6,2.0,False,False,False,1,2021-01-08,2021-06-17
+3313,Edificio Ricardo Matte,2021-01,2022-04,,2.0,16.0,,137,15,9.13,False,False,False,1,2021-01-04,2022-03-30
+3314,Umbrales de Buin III Etapa II,2021-01,2022-07,,2.0,19.0,,141,18,7.83,False,False,False,1,2021-01-04,2022-06-30
+3315,Edificio Argomedo,2021-01,2021-11,,2.0,11.0,,111,10,11.1,False,False,False,1,2021-01-04,2021-10-22
+3316,AMB Tramo B1,2021-01,2023-08,cerrada,2.0,32.0,,111,29,3.83,False,False,False,1,2021-01-12,2023-07-10
+3317,Centro Comercial Patio Riesco,2021-01,2023-04,cerrada,2.0,28.0,,311,27,11.52,False,False,False,1,2021-01-05,2023-03-13
+3318,Veterinaria Universidad Catolica,2021-01,2022-03,,2.0,15.0,,178,14,12.71,False,False,False,1,2021-01-11,2022-02-28
+3319,Jose Pedro Alessandri (JPA),2021-01,2022-03,,2.0,15.0,,189,14,13.5,False,False,False,1,2021-01-05,2022-02-14
+3320,Edificio Gertrudis,2021-01,2023-05,cerrada,2.0,29.0,,444,28,15.86,False,False,False,1,2021-01-04,2023-04-03
+3321,Edificio Domingo Santa Maria,2021-01,2021-06,,2.0,6.0,,21,5,4.2,False,False,False,1,2021-01-05,2021-05-14
+3322,Hiper Lider Quilicura,2021-01,2021-07,,2.0,7.0,,57,6,9.5,False,False,False,1,2021-01-08,2021-06-11
+3323,Mall Vivo Santiago,2021-01,2021-06,,2.0,6.0,,10,5,2.0,False,False,False,1,2021-01-18,2021-05-28
+3324,Edificio Inglaterra,2021-01,2021-11,,2.0,11.0,,185,10,18.5,False,False,False,1,2021-01-04,2021-10-20
+3325,Peru Plaza 2,2021-01,2021-02,,2.0,2.0,,3,1,3.0,False,False,False,1,2021-01-08,2021-01-29
+3327,Condominio Las Encinas Etapa I,2021-01,2022-02,,2.0,14.0,,62,13,4.77,False,False,False,1,2021-01-11,2022-01-11
+3328,San Eugenio,2021-01,2024-01,cerrada,2.0,37.0,,336,36,9.33,False,False,False,1,2021-01-06,2023-12-28
+3329,C0214 Condominio Las Camelias,2021-01,2021-08,,2.0,8.0,,117,7,16.71,False,False,False,1,2021-01-04,2021-07-02
+3330,Casa Lo Barnechea,2021-01,2021-08,,2.0,8.0,,20,7,2.86,False,False,False,1,2021-01-08,2021-07-19
+3331,3000 Post- Venta Zañartu,2021-01,2021-04,,2.0,4.0,,10,3,3.33,False,False,False,1,2021-01-11,2021-03-22
+3332,Puesta de Sol,2021-01,2022-07,,2.0,19.0,,152,18,8.44,False,False,False,1,2021-01-04,2022-06-29
+3333,Parque Quilin,2021-01,2021-02,,2.0,2.0,,12,1,12.0,False,False,False,1,2021-01-04,2021-01-25
+3334,Bodega Lampa,2021-01,2023-06,cerrada,2.0,30.0,,10,10,1.0,False,False,False,1,2021-01-12,2023-05-11
+3335,Edificio Neus II,2021-01,2023-08,cerrada,2.0,32.0,,422,31,13.61,False,False,False,1,2021-01-11,2023-07-03
+3336,0553 Obra Complementaria 4 Pak. Adm.,2021-01,2021-12,,2.0,12.0,,74,11,6.73,False,False,False,1,2021-01-12,2021-11-26
+3337,Rodrigo de Araya Exequiel Fernandez,2021-01,2021-07,,2.0,7.0,,46,6,7.67,False,False,False,1,2021-01-12,2021-06-18
+3338,Vive San Nicolas,2021-01,2022-08,,2.0,20.0,,42,11,3.82,False,False,False,1,2021-01-18,2022-07-27
+3339,Edificio Mirador lo Campino,2021-01,2022-06,,2.0,18.0,,128,17,7.53,False,False,False,1,2021-01-18,2022-05-18
+3340,Post-Venta ING (Mar Jonico),2021-01,2023-01,,2.0,25.0,,82,21,3.9,False,False,False,1,2021-01-19,2022-12-30
+3341,Bodega Lago Riñihue,2021-01,2021-03,,2.0,3.0,,3,2,1.5,False,False,False,1,2021-01-22,2021-02-22
+3342,580-Good Food,2021-01,2021-08,,2.0,8.0,,42,7,6.0,False,False,False,1,2021-01-25,2021-07-28
+3343,Edificio Pedro de Valdivia,2021-01,2022-11,,2.0,23.0,,220,22,10.0,False,False,False,1,2021-01-26,2022-10-26
+3345,Edificio Cuvee,2021-01,2024-02,cerrada,2.0,38.0,9.0,491,38,12.92,False,False,False,2,2021-01-29,2026-04-08
+1349,Post Venta,2021-02,,retiro momt,1.0,,10.0,84,53,1.58,True,False,False,3,2021-02-02,2026-08-28
+1505,Bodega Tasco,2021-02,,activa,1.0,,9.0,40,38,1.05,False,False,False,3,2021-02-03,2026-08-11
+2045,Duoc San Bernardo,2021-02,2025-05,cerrada,2.0,52.0,9.0,25,23,1.09,False,False,False,3,2021-02-25,2025-04-30
+2206,Wurth Chile,2021-02,,activa,1.0,,10.0,215,66,3.26,False,False,False,5,2021-02-02,2026-08-21
+2973,Taller Batuco,2021-02,,activa,1.0,,10.0,44,39,1.13,True,False,False,5,2021-02-18,2026-08-06
+3008,2102 Nueva Cordova (SURA),2021-02,2022-02,,2.0,13.0,,140,12,11.67,False,False,False,1,2021-02-11,2022-01-20
+3018,Los Parques de Buin Sur,2021-02,2026-01,activa,2.0,60.0,10.0,109,53,2.06,True,False,False,4,2021-02-16,2025-12-11
+3245,Las Tinajas 2,2021-02,2021-03,,2.0,2.0,,1,1,1.0,False,False,False,1,2021-02-25,2021-02-25
+3254,Edificio Metrica De La Barra,2021-02,2021-10,,2.0,9.0,,45,8,5.62,False,False,False,1,2021-02-08,2021-09-28
+3264,Ed. Visviri,2021-02,2022-09,,2.0,20.0,,172,19,9.05,False,False,False,1,2021-02-15,2022-08-26
+3286,Los Portales de Buin,2021-02,2021-12,,2.0,11.0,,22,10,2.2,False,False,False,1,2021-02-16,2021-11-23
+3311,Bodega Gabriela,2021-02,2021-03,,2.0,2.0,,1,1,1.0,False,False,False,1,2021-02-17,2021-02-17
+3326,Neohaus Las Condes,2021-02,2025-10,cerrada,2.0,57.0,10.0,629,52,12.1,False,False,False,2,2021-02-10,2025-09-08
+3344,345 Marienberg,2021-02,2021-09,,2.0,8.0,,25,7,3.57,False,False,False,1,2021-02-01,2021-08-19
+3346,edificio Vista La Florida,2021-02,2022-06,,2.0,17.0,,56,9,6.22,False,False,False,1,2021-02-08,2022-05-27
+3347,General Freire,2021-02,2022-11,,2.0,22.0,,503,21,23.95,False,False,False,1,2021-02-08,2022-10-06
+3348,El Ciruelillo,2021-02,2023-01,cerrada,2.0,24.0,,170,23,7.39,False,False,False,1,2021-02-12,2022-12-16
+3349,Ampliacion CD Falabella,2021-02,2022-11,,2.0,22.0,,127,21,6.05,False,False,False,1,2021-02-18,2022-10-11
+3350,Centro Medico San Francisco,2021-02,2023-08,cerrada,2.0,31.0,,210,29,7.24,False,False,False,1,2021-02-18,2023-07-31
+3351,Obra Maiten,2021-02,2022-11,,2.0,22.0,,180,21,8.57,False,False,False,1,2021-02-22,2022-10-26
+3352,Ikea Opka,2021-02,2022-03,,2.0,14.0,,172,13,13.23,False,False,False,1,2021-02-23,2022-02-09
+2977,Vista Vivaceta 2,2021-03,2022-01,,2.0,11.0,,19,10,1.9,False,False,False,1,2021-03-05,2021-12-14
+3175,1547 Ossa,2021-03,2021-09,,2.0,7.0,,83,6,13.83,False,False,False,1,2021-03-23,2021-08-26
+3193,San Jose de la Sierra 2,2021-03,2021-04,,2.0,2.0,,1,1,1.0,False,False,False,1,2021-03-19,2021-03-19
+3353,Vista Maipo PC2,2021-03,2022-04,,2.0,14.0,,54,13,4.15,False,False,False,1,2021-03-02,2022-03-09
+3354,Jardines de Alvarado,2021-03,2023-01,,2.0,23.0,,232,19,12.21,False,False,False,1,2021-03-08,2022-12-23
+3355,Robles del Aconcagua,2021-03,2022-05,,2.0,15.0,,86,13,6.62,False,False,False,1,2021-03-05,2022-04-08
+3356,Josue Smith,2021-03,2021-11,,2.0,9.0,,26,6,4.33,False,False,False,1,2021-03-17,2021-10-04
+3357,Multivac,2021-03,2021-05,,2.0,3.0,,5,2,2.5,False,False,False,1,2021-03-17,2021-04-29
+3358,Direccion de Inclución PUC,2021-03,2022-10,,2.0,20.0,,139,19,7.32,False,False,False,1,2021-03-19,2022-09-06
+3359,Entre Parques IV,2021-03,2022-09,,2.0,19.0,,61,16,3.81,False,False,False,1,2021-03-19,2022-08-26
+3360,Rio Maipo,2021-03,2022-04,,2.0,14.0,,120,13,9.23,False,False,False,1,2021-03-19,2022-03-16
+3361,06 Suministro e Inst. Tabiqueria y Puertas Territoria,2021-03,2021-06,,2.0,4.0,,11,3,3.67,False,False,False,1,2021-03-24,2021-05-28
+3362,Carol Urzua,2021-04,2023-08,cerrada,2.0,29.0,,242,26,9.31,False,False,False,1,2021-04-08,2023-07-03
+3363,Quilin,2021-04,2022-07,,2.0,16.0,,186,15,12.4,False,False,False,1,2021-04-08,2022-06-22
+3364,296 Edificio RQ,2021-04,2023-03,cerrada,2.0,24.0,,296,23,12.87,False,False,False,2,2021-04-12,2023-02-10
+3365,Edificio General Holley,2021-04,2021-06,,2.0,3.0,,40,2,20.0,False,False,False,1,2021-04-27,2021-05-28
+3367,302 Alto Macul 2021,2021-04,2022-06,,2.0,15.0,,164,14,11.71,False,False,False,1,2021-04-26,2022-05-31
+3368,Edificio K-UTFSM,2021-04,2023-05,cerrada,2.0,26.0,,621,25,24.84,False,False,False,1,2021-04-26,2023-04-14
+3369,Post Venta Santiago,2021-04,2022-02,,2.0,11.0,,13,10,1.3,False,False,False,1,2021-04-27,2022-01-03
+3372,El Real,2021-04,2022-08,,2.0,17.0,,52,12,4.33,False,False,False,1,2021-04-29,2022-07-19
+3167,Ed. Walker Martinez,2021-05,2022-02,,2.0,10.0,,80,8,10.0,False,False,False,1,2021-05-11,2022-01-13
+3191,El Tranque Interior,2021-05,2021-11,,2.0,7.0,,32,6,5.33,False,False,False,1,2021-05-13,2021-10-15
+3271,159 Alto Parque Cerrillo,2021-05,2022-03,,2.0,11.0,,75,10,7.5,False,False,False,1,2021-05-18,2022-02-25
+3366,Alderete - Cook,2021-05,2023-08,cerrada,2.0,28.0,,267,26,10.27,False,False,False,1,2021-05-06,2023-07-10
+3370,Vicuña Mackenna Trotter,2021-05,2022-06,,2.0,14.0,,298,13,22.92,False,False,False,1,2021-05-12,2022-05-10
+3373,Apostol Santiago,2021-05,2021-06,,2.0,2.0,,20,1,20.0,False,False,False,1,2021-05-04,2021-05-27
+3374,Las Palmeras de Malloco Etapa 5,2021-05,2024-04,cerrada,2.0,36.0,,41,30,1.37,False,False,False,3,2021-05-06,2024-03-18
+3375,Normalizacion Electronica ira Etapa,2021-05,2021-10,,2.0,6.0,,11,5,2.2,False,False,False,1,2021-05-05,2021-09-03
+3376,Zañartu 2,2021-05,2022-09,,2.0,17.0,,147,16,9.19,False,False,False,1,2021-05-05,2022-08-25
+3377,41 Reserva San Francisco Casas,2021-05,2023-02,,2.0,22.0,,235,21,11.19,False,False,False,1,2021-05-11,2023-01-06
+3378,Edificio San Pablo,2021-05,2022-12,,2.0,20.0,,144,19,7.58,False,False,False,1,2021-05-18,2022-11-22
+3379,1005 Edificio Tocornal,2021-05,2022-11,,2.0,19.0,,382,18,21.22,False,False,False,1,2021-05-20,2022-10-24
+3380,143 Las Brisas II Etapa 2,2021-05,2023-01,,2.0,21.0,,96,17,5.65,False,False,False,1,2021-05-24,2022-12-29
+3382,CCU Sala de Filtrado,2021-05,2022-02,,2.0,10.0,,40,8,5.0,False,False,False,1,2021-05-31,2022-01-24
+3381,Villaseca,2021-06,2023-02,,2.0,21.0,,258,20,12.9,False,False,False,1,2021-06-02,2023-01-12
+3384,1561 Victorino,2021-06,2021-12,,2.0,7.0,,34,6,5.67,False,False,False,1,2021-06-07,2021-11-05
+3385,Edificio Robles,2021-06,2024-02,cerrada,2.0,33.0,,283,31,9.13,False,False,False,1,2021-06-08,2023-12-29
+3386,Reserva Oriente Etapa 1,2021-06,2022-11,,2.0,18.0,,33,11,3.0,False,False,False,1,2021-06-10,2022-10-11
+3387,024 Trinidad Ramirez,2021-06,2022-07,,2.0,14.0,,134,13,10.31,False,False,False,1,2021-06-07,2022-06-08
+3388,Const. Comisaria y JZM Oeste,2021-06,2022-04,,2.0,11.0,,5,4,1.25,False,False,False,1,2021-06-07,2022-03-07
+3389,Edificio Independencia,2021-06,2023-07,cerrada,2.0,26.0,,767,25,30.68,False,False,False,1,2021-06-22,2023-06-28
+3390,CV 8025 El Parron,2021-06,2024-01,cerrada,2.0,32.0,,488,30,16.27,False,False,False,3,2021-06-11,2023-12-07
+3391,Cond. Los Almendros 2 Etapa 2,2021-06,2022-05,,2.0,12.0,,140,11,12.73,False,False,False,1,2021-06-17,2022-04-29
+3392,Polideportivo C. de Entrenamiento Paralimpico E. N.,2021-06,2023-11,cerrada,2.0,30.0,,330,28,11.79,False,False,False,1,2021-06-23,2023-10-19
+3393,Santa amalia,2021-06,2022-12,,2.0,19.0,,187,18,10.39,False,False,False,1,2021-06-23,2022-11-04
+3394,Hotel Manquehue,2021-06,2023-01,,2.0,20.0,,70,19,3.68,False,False,False,1,2021-06-29,2022-12-06
+3395,Edificio Goycolea 100,2021-06,2021-08,,2.0,3.0,,8,2,4.0,False,False,False,1,2021-06-07,2021-07-30
+3396,101 El Rosal Oriente II,2021-06,2023-07,cerrada,2.0,26.0,,128,25,5.12,False,False,False,1,2021-06-02,2023-06-30
+3397,Urbanizacion La Reserva,2021-07,,activa,1.0,,10.0,152,32,4.75,False,False,False,3,2021-07-01,2026-03-11
+3399,JS449 Edificio Josue Smith,2021-07,2022-03,,2.0,9.0,,58,8,7.25,False,False,False,1,2021-07-19,2022-02-14
+3401,Laboratorio IFF,2021-07,2022-07,,2.0,13.0,,26,12,2.17,False,False,False,1,2021-07-28,2022-06-13
+3402,Edificio Zenteno Plaza,2021-07,2021-10,,2.0,4.0,,19,3,6.33,False,False,False,1,2021-07-28,2021-09-30
+3403,Principe de Gales,2021-07,2024-12,cerrada,2.0,42.0,9.0,2220,39,56.92,False,False,False,3,2021-07-28,2024-11-05
+3404,Senior Suite,2021-07,2021-10,,2.0,4.0,,5,3,1.67,False,False,False,1,2021-07-30,2021-09-07
+3400,Pedro de Valdivia,2021-08,2022-12,,2.0,17.0,,93,11,8.45,False,False,False,1,2021-08-16,2022-11-03
+3405,Estancia Liray Etapa 7.3,2021-08,2022-02,,2.0,7.0,,14,6,2.33,False,False,False,1,2021-08-02,2022-01-13
+3406,Edificio Galvarino Gallardo,2021-08,2023-02,,2.0,19.0,,225,18,12.5,False,False,False,1,2021-08-02,2023-01-03
+3407,CCU Linea 5,2021-08,2022-04,,2.0,9.0,,47,8,5.88,False,False,False,1,2021-08-02,2022-03-01
+3408,Casas F-10,2021-08,2025-09,cerrada,2.0,50.0,10.0,168,36,4.67,False,False,False,2,2021-08-09,2025-08-19
+3409,Edificio Goycolea 100,2021-08,2022-08,,2.0,13.0,,91,12,7.58,False,False,False,1,2021-08-09,2022-07-29
+3410,CP6026 Edificio Suiza,2021-08,2023-09,cerrada,2.0,26.0,,342,25,13.68,False,False,False,1,2021-08-16,2023-08-07
+3411,La Reserva 7 Etapa Isla de Maipo,2021-08,2023-03,cerrada,2.0,20.0,,214,19,11.26,False,False,False,1,2021-08-18,2023-02-28
+3412,Edificio Nexus,2021-08,2023-11,cerrada,2.0,28.0,,252,25,10.08,False,False,False,1,2021-08-18,2023-10-24
+3413,Edificio Alsacia,2021-08,2022-09,,2.0,14.0,,99,13,7.62,False,False,False,1,2021-08-25,2022-08-02
+3414,Edificio Candelaria,2021-08,2022-09,,2.0,14.0,,182,13,14.0,False,False,False,1,2021-08-25,2022-08-31
+3415,Escuela de Sub Oficiales,2021-08,2022-03,,2.0,8.0,,41,7,5.86,False,False,False,1,2021-08-31,2022-02-28
+3416,Bodega Lampa,2021-09,2022-01,,2.0,5.0,,15,3,5.0,False,False,False,1,2021-09-01,2021-12-28
+3417,304 Infante 2021,2021-09,2023-01,,2.0,17.0,,129,16,8.06,False,False,False,1,2021-09-09,2022-12-19
+3418,Edificio Zañartu,2021-09,2024-01,cerrada,2.0,29.0,,366,28,13.07,False,False,False,1,2021-09-09,2023-12-04
+3419,Edificio Partenon Los Castaños III,2021-09,2022-10,,2.0,14.0,,181,13,13.92,False,False,False,1,2021-09-13,2022-09-09
+3420,Multivac,2021-09,2022-02,,2.0,6.0,,27,5,5.4,False,False,False,1,2021-09-22,2022-01-17
+3421,Edificio Milan,2021-09,2023-02,,2.0,18.0,,197,16,12.31,False,False,False,1,2021-09-28,2023-01-31
+3422,Bodega Post Venta,2021-09,2021-11,,2.0,3.0,,2,2,1.0,False,False,False,1,2021-09-28,2021-10-18
+3423,II Brigada Aerea Fuerza Aerea de Chile,2021-09,2021-12,,2.0,4.0,,16,3,5.33,False,False,False,1,2021-09-28,2021-11-10
+3383,SVS 2242 Rupanco 100,2021-10,2023-10,cerrada,2.0,25.0,,404,24,16.83,False,False,False,1,2021-10-29,2023-09-01
+3424,Centro Comercial Las Vizcachas,2021-10,2022-08,,2.0,11.0,,53,10,5.3,False,False,False,1,2021-10-06,2022-07-22
+3425,Edificio Irarrazabal,2021-10,2023-01,cerrada,2.0,16.0,,94,10,9.4,False,False,False,1,2021-10-06,2022-12-19
+3426,Remanso de Chicureo Etapa RDCH E10,2021-10,2023-05,cerrada,2.0,20.0,,197,19,10.37,False,False,False,1,2021-10-12,2023-04-19
+3427,Edificio Condell,2021-10,2023-01,,2.0,16.0,,98,15,6.53,False,False,False,1,2021-10-12,2022-12-19
+3428,Cumbres de Cantillana,2021-10,2022-05,,2.0,8.0,,54,7,7.71,False,False,False,1,2021-10-12,2022-04-18
+3429,Ampliacion Falabella (S-577) Mandante,2021-10,2022-06,,2.0,9.0,,16,6,2.67,False,False,False,1,2021-10-12,2022-05-11
+3430,Lomas del Carmen,2021-10,2023-05,cerrada,2.0,20.0,,212,19,11.16,False,False,False,1,2021-10-22,2023-04-28
+3431,Mirador Marin de Zamora,2021-10,2022-12,,2.0,15.0,,136,14,9.71,False,False,False,1,2021-10-26,2022-11-11
+3432,Eco España,2021-10,2022-02,,2.0,5.0,,9,4,2.25,False,False,False,1,2021-10-26,2022-01-19
+3433,Edificio Reserva San Francisco,2021-10,2022-03,,2.0,6.0,,20,5,4.0,False,False,False,1,2021-10-27,2022-02-04
+3435,3435 SML Nacional,2021-10,2026-03,activa,2.0,54.0,10.0,1185,53,22.36,True,False,False,2,2021-10-28,2026-02-25
+3398,Toesca,2021-11,2024-06,cerrada,2.0,32.0,9.0,222,29,7.66,False,False,False,2,2021-11-25,2024-05-20
+3434,Templo Bautista La Reina,2021-11,2022-02,,2.0,4.0,,12,3,4.0,False,False,False,1,2021-11-03,2022-01-25
+3436,Edificio Aliwen Torre 3,2021-11,2023-10,cerrada,2.0,24.0,,358,23,15.57,False,False,False,1,2021-11-03,2023-09-15
+3437,Plaza la Florida 2,2021-11,2022-12,,2.0,14.0,,98,13,7.54,False,False,False,1,2021-11-04,2022-11-15
+3438,CV8020 Vista Francia,2021-11,2022-11,,2.0,13.0,,191,12,15.92,False,False,False,1,2021-11-04,2022-10-26
+3439,Laguna Lo Campino,2021-11,2023-12,cerrada,2.0,26.0,,356,25,14.24,False,False,False,1,2021-11-08,2023-11-07
+3440,1561 Victorino,2021-11,2023-06,cerrada,2.0,20.0,,268,15,17.87,False,False,False,1,2021-11-05,2023-05-31
+3442,Condominio Alto La Cruz etapa 1,2021-11,2023-03,cerrada,2.0,17.0,,159,13,12.23,False,False,False,1,2021-11-11,2023-02-24
+3443,Condominio Piedra Roja,2021-11,2023-12,cerrada,2.0,26.0,,284,25,11.36,False,False,False,1,2021-11-15,2023-11-30
+3444,Arboledas Del Maipo Etpa 1,2021-11,2024-05,cerrada,2.0,31.0,10.0,238,30,7.93,False,False,False,5,2021-11-13,2024-04-10
+3445,Ecoegaña Torre C,2021-11,2022-05,,2.0,7.0,,66,6,11.0,False,False,False,1,2021-11-15,2022-04-20
+3446,Edificio El Nogal,2021-11,2023-10,cerrada,2.0,24.0,,292,23,12.7,False,False,False,1,2021-11-19,2023-09-14
+3447,Edificio Ecuador Ralei,2021-11,2023-02,,2.0,16.0,,261,15,17.4,False,False,False,1,2021-11-19,2023-01-04
+3448,Edificio Hoy Estoril,2021-11,2022-11,,2.0,13.0,,135,12,11.25,False,False,False,1,2021-11-23,2022-10-07
+3449,Edificio San Ignacio,2021-11,2023-12,cerrada,2.0,26.0,,169,25,6.76,False,False,False,1,2021-11-25,2023-11-06
+3450,Polvorin,2021-11,2022-02,,2.0,4.0,,2,2,1.0,False,False,False,1,2021-11-24,2022-01-25
+3451,Edificio Rio Guadiana,2021-11,2024-05,cerrada,2.0,31.0,9.0,421,30,14.03,False,False,False,2,2021-11-25,2024-04-08
+3452,Eco Huemul,2021-11,2023-12,cerrada,2.0,26.0,,271,25,10.84,False,False,False,1,2021-11-29,2023-11-17
+3453,AV+,2021-11,2022-03,,2.0,5.0,,21,4,5.25,False,False,False,1,2021-11-26,2022-02-25
+3454,Condominio Jorge Caceres 2,2021-11,2023-08,cerrada,2.0,22.0,,158,21,7.52,False,False,False,1,2021-11-29,2023-07-03
+3455,Villa Panamericana,2021-12,2025-09,cerrada,2.0,46.0,9.0,1272,44,28.91,False,False,False,3,2021-12-01,2025-08-29
+3456,Ñuñoa 2024,2021-12,2024-06,cerrada,2.0,31.0,9.0,452,30,15.07,False,False,False,2,2021-12-02,2024-05-06
+3457,Meneses 2020,2021-12,2023-09,cerrada,2.0,22.0,,320,21,15.24,False,False,False,1,2021-12-03,2023-08-02
+3458,Ikea Mall Plaza Oeste,2021-12,2023-01,,2.0,14.0,,146,13,11.23,False,False,False,1,2021-12-23,2022-12-07
+3459,Los Quillayes de la Dehesa Etapa 3,2021-12,2022-02,,2.0,3.0,,3,2,1.5,False,False,False,1,2021-12-15,2022-01-13
+3460,Edificio IMU,2021-12,2024-08,cerrada,2.0,33.0,9.0,370,32,11.56,False,False,False,2,2021-12-16,2024-07-29
+3461,303 Town House 2,2021-12,2023-10,cerrada,2.0,23.0,,196,21,9.33,False,False,False,1,2021-12-20,2023-09-06
+3462,Eco Egaña,2021-12,2022-01,,2.0,2.0,,11,1,11.0,False,False,False,1,2021-12-22,2021-12-31
+3463,Edificio Los Sauces II,2021-12,2024-07,cerrada,2.0,32.0,,254,29,8.76,False,False,False,3,2021-12-29,2024-06-11
+3441,Lo Encalada,2022-01,2023-08,cerrada,2.0,20.0,,233,19,12.26,False,False,False,1,2022-01-05,2023-07-27
+3465,Pique Observatorio,2022-01,2023-10,cerrada,2.0,22.0,,134,21,6.38,False,False,False,1,2022-01-06,2023-09-29
+3466,Bodega Lo Espejo,2022-01,,activa,1.0,,10.0,73,54,1.35,False,False,False,3,2022-01-05,2026-08-14
+3467,Las Tranqueras,2022-01,2022-10,,2.0,10.0,,90,9,10.0,False,False,False,1,2022-01-06,2022-09-15
+3468,Estancia Santa Cruz II,2022-01,2022-07,,2.0,7.0,,16,6,2.67,False,False,False,1,2022-01-07,2022-06-16
+3469,Habilitacion Easy Santa Amalia,2022-01,2022-05,,2.0,5.0,,22,4,5.5,False,False,False,1,2022-01-07,2022-04-28
+3470,Parque Miguel Angel,2022-01,2024-04,cerrada,2.0,28.0,10.0,172,27,6.37,False,False,False,3,2022-01-14,2024-03-26
+3471,Jardines de Aconcagua,2022-01,2022-06,,2.0,6.0,,10,3,3.33,False,False,False,1,2022-01-13,2022-05-05
+3472,Rojas Magallanes 2,2022-01,2023-07,cerrada,2.0,19.0,,214,18,11.89,False,False,False,1,2022-01-25,2023-06-20
+3474,Alto Lo Caña,2022-01,2024-04,cerrada,2.0,28.0,10.0,236,27,8.74,False,False,False,2,2022-01-27,2024-03-12
+3475,Edificio Holanda California,2022-01,2023-06,cerrada,2.0,18.0,,165,17,9.71,False,False,False,1,2022-01-28,2023-05-08
+3476,San Rafael,2022-01,2023-10,cerrada,2.0,22.0,,190,21,9.05,False,False,False,1,2022-01-31,2023-09-07
+3464,Edificio Missuri,2022-02,2023-09,cerrada,2.0,20.0,,303,19,15.95,False,False,False,1,2022-02-17,2023-08-14
+3473,Insigne,2022-02,2025-11,cerrada,2.0,46.0,9.0,176,34,5.18,False,False,False,2,2022-02-07,2025-10-01
+3477,Ecoegaña Torre B,2022-02,2022-06,,2.0,5.0,,40,4,10.0,False,False,False,1,2022-02-02,2022-05-23
+3478,Edificio Roberto del Rio,2022-02,2023-08,cerrada,2.0,19.0,,159,17,9.35,False,False,False,1,2022-02-14,2023-07-28
+3479,Mind ID 3502,2022-02,2024-05,cerrada,2.0,28.0,9.0,613,27,22.7,False,False,False,3,2022-02-15,2024-04-05
+3480,1035/Borde Blanco 2B,2022-02,2022-06,,2.0,5.0,,10,4,2.5,False,False,False,1,2022-02-15,2022-05-09
+3481,Jose Domingo Cañas,2022-02,2023-03,cerrada,2.0,14.0,,187,13,14.38,False,False,False,2,2022-02-15,2023-02-06
+3482,Guillermo Mann Torre A,2022-02,2022-10,cerrada,2.0,9.0,,44,7,6.29,False,False,False,1,2022-02-15,2022-09-20
+3485,SYF Cramer 2022,2022-02,2023-04,cerrada,2.0,15.0,,23,13,1.77,False,False,False,1,2022-02-24,2023-03-03
+3483,Departamental Torre 3,2022-03,2023-05,cerrada,2.0,15.0,,129,14,9.21,False,False,False,1,2022-03-03,2023-04-25
+3484,Los Leones,2022-03,2023-03,cerrada,2.0,13.0,,116,12,9.67,False,False,False,1,2022-03-21,2023-02-03
+3486,713 Autocenter Colina,2022-03,2022-09,,2.0,7.0,,56,6,9.33,False,False,False,1,2022-03-01,2022-08-31
+3487,Plaza Cervantes,2022-03,2022-11,,2.0,9.0,,78,8,9.75,False,False,False,1,2022-03-01,2022-10-27
+3488,Komatsu Lampa,2022-03,2023-04,cerrada,2.0,14.0,,53,13,4.08,False,False,False,1,2022-03-03,2023-03-10
+3489,Almaviva,2022-03,2024-01,cerrada,2.0,23.0,,250,22,11.36,False,False,False,1,2022-03-09,2023-12-07
+3490,196 Villa Costa Azul,2022-03,2024-02,cerrada,2.0,24.0,,371,23,16.13,False,False,False,1,2022-03-17,2024-01-12
+3491,San Ignacio,2022-03,2024-04,cerrada,2.0,26.0,10.0,48,25,1.92,False,False,False,2,2022-03-22,2024-03-27
+3493,Econgaña Torre A,2022-03,2022-07,,2.0,5.0,,8,4,2.0,False,False,False,1,2022-03-21,2022-06-01
+3494,Camino Turistico,2022-03,2024-04,cerrada,2.0,26.0,10.0,220,25,8.8,False,False,False,3,2022-03-23,2024-03-15
+3495,Ampliacion Planta Castaño,2022-03,2022-11,,2.0,9.0,,13,8,1.62,False,False,False,1,2022-03-24,2022-10-06
+3496,Ossa,2022-03,2022-07,,2.0,5.0,,13,4,3.25,False,False,False,1,2022-03-23,2022-06-17
+3497,303 Taiquen II 2021,2022-04,2023-08,cerrada,2.0,17.0,,227,16,14.19,False,False,False,1,2022-04-04,2023-07-17
+3498,Fautino Sarmiento,2022-04,2024-01,cerrada,2.0,22.0,,90,12,7.5,False,False,False,2,2022-04-22,2023-08-31
+3499,Edificio MS214,2022-04,2023-08,cerrada,2.0,17.0,,101,15,6.73,False,False,False,1,2022-04-05,2023-07-27
+3500,Portal Los Maitenes 5,2022-04,2023-02,,2.0,11.0,,82,6,13.67,False,False,False,1,2022-04-05,2023-01-04
+3501,118 Edificio Karun,2022-04,2022-10,,2.0,7.0,,91,6,15.17,False,False,False,1,2022-04-08,2022-09-12
+3502,Edificio El Monte de Quinchamali,2022-04,2022-09,,2.0,6.0,,52,5,10.4,False,False,False,1,2022-04-11,2022-08-31
+3503,Alicante,2022-04,2023-11,cerrada,2.0,20.0,,220,19,11.58,False,False,False,1,2022-04-08,2023-10-31
+3504,AKIKB Vitacura,2022-04,2023-04,cerrada,2.0,13.0,,80,12,6.67,False,False,False,1,2022-04-14,2023-03-03
+3505,301 Madagascar 2021,2022-04,2022-11,,2.0,8.0,,33,7,4.71,False,False,False,1,2022-04-18,2022-10-14
+3507,Vista Colon,2022-04,2022-07,,2.0,4.0,,5,2,2.5,False,False,False,1,2022-04-22,2022-06-29
+3508,Edificio Don Vicente III,2022-04,2025-09,cerrada,2.0,42.0,9.0,465,41,11.34,False,False,False,3,2022-04-25,2025-08-11
+3509,Condominio El Frambuesal,2022-04,2024-01,cerrada,2.0,22.0,,185,21,8.81,False,False,False,1,2022-04-27,2023-12-14
+3511,Remodelacion Regimiento Tacna,2022-04,2023-01,,2.0,10.0,,11,8,1.38,False,False,False,1,2022-04-27,2022-12-14
+3506,Lira IV (instalacion de faena),2022-05,2023-02,,2.0,10.0,,26,9,2.89,False,False,False,1,2022-05-10,2023-01-16
+3510,571 Los Clarines,2022-05,2023-08,cerrada,2.0,16.0,,247,15,16.47,False,False,False,1,2022-05-04,2023-07-04
+3512,Edificio Robinson Crusoe,2022-05,2022-09,,2.0,5.0,,24,4,6.0,False,False,False,1,2022-05-03,2022-08-05
+3513,Centro de Distribucion El Montijo,2022-05,2023-11,cerrada,2.0,19.0,,100,18,5.56,False,False,False,1,2022-05-02,2023-10-13
+3514,OCTV Mall Plaza Vespucio (terrazas),2022-05,2022-08,,2.0,4.0,,70,3,23.33,False,False,False,1,2022-05-11,2022-07-11
+3515,Los Arrayanes de Lampa,2022-05,2025-04,cerrada,2.0,36.0,10.0,234,35,6.69,False,False,False,3,2022-05-10,2025-03-10
+3517,L33A,2022-05,2024-11,cerrada,2.0,31.0,10.0,852,30,28.4,False,False,False,2,2022-05-20,2024-10-30
+3519,Icenter ET02,2022-05,2022-10,,2.0,6.0,,19,5,3.8,False,False,False,1,2022-05-24,2022-09-12
+3520,Edificio Vista La Florida,2022-05,2022-11,,2.0,7.0,,31,6,5.17,False,False,False,1,2022-05-24,2022-10-28
+3521,Casonas Alta Vista,2022-05,2025-02,cerrada,2.0,34.0,9.0,388,33,11.76,False,False,False,3,2022-05-25,2025-01-03
+3522,Santa Elena,2022-05,2022-10,,2.0,6.0,,60,5,12.0,False,False,False,1,2022-05-25,2022-09-08
+3516,Las Pircas,2022-06,2023-02,cerrada,2.0,9.0,,48,8,6.0,False,False,False,1,2022-06-03,2023-01-31
+3523,Guillermo Mann Torre C,2022-06,2026-07,activa,2.0,50.0,9.0,751,48,15.65,True,False,False,2,2022-06-30,2026-06-18
+3524,Lote 21 A-Urbanizacion,2022-06,2022-07,,2.0,2.0,,15,1,15.0,False,False,False,1,2022-06-08,2022-06-16
+3525,Edificio Manquehue,2022-06,2024-10,cerrada,2.0,29.0,9.0,419,28,14.96,False,False,False,2,2022-06-17,2024-09-03
+3526,Edificio Argentina,2022-06,2024-01,cerrada,2.0,20.0,,276,18,15.33,False,False,False,1,2022-06-14,2023-11-29
+3527,Strip Center Luis Pasteur,2022-06,2022-09,,2.0,4.0,,26,3,8.67,False,False,False,1,2022-06-22,2022-08-12
+3528,Parque La Hondonada,2022-06,2024-05,cerrada,2.0,24.0,10.0,197,23,8.57,False,False,False,2,2022-06-23,2024-04-02
+3529,Los Avellanos,2022-07,2023-05,cerrada,2.0,11.0,,147,10,14.7,False,False,False,1,2022-07-08,2023-04-06
+3530,Habilitacion de Bodega Industrial Panal-La Polar,2022-07,2023-06,cerrada,2.0,12.0,,138,11,12.55,False,False,False,2,2022-07-15,2023-05-22
+3531,Edificio Andres,2022-07,2023-09,cerrada,2.0,15.0,,110,14,7.86,False,False,False,1,2022-07-01,2023-08-28
+3533,Edificio Carrera 4,2022-07,2023-05,cerrada,2.0,11.0,,56,10,5.6,False,False,False,1,2022-07-28,2023-04-04
+3534,La Bandera,2022-07,2023-06,cerrada,2.0,12.0,,59,11,5.36,False,False,False,1,2022-07-28,2023-05-08
+3535,3535 Paseo Bicentenario Cerrillos,2022-07,2025-01,cerrada,2.0,31.0,9.0,358,30,11.93,False,False,False,3,2022-07-28,2024-12-27
+3532,Edificio Corrientes,2022-08,2023-11,cerrada,2.0,16.0,,194,15,12.93,False,False,False,1,2022-08-02,2023-10-20
+3536,Post Venta 10-01-07,2022-08,2023-11,cerrada,2.0,16.0,,26,13,2.0,False,False,False,1,2022-08-01,2023-10-16
+3537,Planta Semillas Sakata S-590,2022-08,2023-01,,2.0,6.0,,38,5,7.6,False,False,False,1,2022-08-04,2022-12-30
+3538,Bodega Central,2022-08,2022-10,,2.0,3.0,,5,2,2.5,False,False,False,1,2022-08-16,2022-09-14
+3539,Las Perdices Frente 1-2,2022-08,2024-02,cerrada,2.0,19.0,,511,18,28.39,False,False,False,1,2022-08-09,2024-01-31
+3540,Guillermo Mann Torre B,2022-08,2024-11,cerrada,2.0,28.0,9.0,609,27,22.56,False,False,False,2,2022-08-17,2024-10-15
+3541,158 Edificio Isabel Riquelme,2022-08,2024-09,cerrada,2.0,26.0,9.0,395,25,15.8,False,False,False,3,2022-08-17,2024-08-05
+3542,Rupanco,2022-08,2023-09,cerrada,2.0,14.0,,104,13,8.0,False,False,False,1,2022-08-22,2023-08-11
+3543,T-139 Edificio Zañartu,2022-08,2022-12,,2.0,5.0,,79,4,19.75,False,False,False,1,2022-08-26,2022-11-04
+3544,Strip Center Pausa Pasteur,2022-08,2023-10,cerrada,2.0,15.0,,135,14,9.64,False,False,False,1,2022-08-24,2023-09-05
+3545,Condominio Newen,2022-08,2025-07,cerrada,2.0,36.0,10.0,337,34,9.91,False,False,False,4,2022-08-29,2025-06-11
+3546,Brown Sur,2022-08,2023-08,cerrada,2.0,13.0,,129,12,10.75,False,False,False,1,2022-08-31,2023-07-03
+3547,Eco Quilin II,2022-09,2024-03,cerrada,2.0,19.0,9.0,167,18,9.28,False,False,False,3,2022-09-01,2024-02-13
+3548,La Concepcion,2022-09,2024-10,cerrada,2.0,26.0,9.0,522,25,20.88,False,False,False,3,2022-09-02,2024-09-16
+3549,Prefabricados de Hormigon Grau,2022-09,2023-10,cerrada,2.0,14.0,,163,13,12.54,False,False,False,1,2022-09-07,2023-09-29
+3550,Remodelacion Ecologica de la Embajada de Corea de Chile,2022-09,2023-05,cerrada,2.0,9.0,,27,8,3.38,False,False,False,1,2022-09-09,2023-04-11
+3551,Arrayanes de Nos IV Lote 3A,2022-09,2023-07,cerrada,2.0,11.0,,62,10,6.2,False,False,False,1,2022-09-12,2023-06-16
+3552,Habilitacion de Oficina Tecnicas AVO II Peñalolen,2022-09,2022-11,,2.0,3.0,,7,2,3.5,False,False,False,1,2022-09-09,2022-10-25
+3553,Edificio Goycolea,2022-09,2025-02,cerrada,2.0,30.0,9.0,215,27,7.96,False,False,False,2,2022-09-09,2025-01-06
+3555,Quinchamali,2022-09,2022-12,,2.0,4.0,,11,3,3.67,False,False,False,1,2022-09-20,2022-11-25
+3556,Centro de Distribucion ENEA 1,2022-09,2023-10,cerrada,2.0,14.0,,61,11,5.55,False,False,False,1,2022-09-26,2023-09-29
+3558,Edificio Candelaria,2022-09,2022-11,,2.0,3.0,,15,2,7.5,False,False,False,1,2022-09-05,2022-10-20
+3559,Edificio El Monte de Quinchamali,2022-09,2024-01,cerrada,2.0,17.0,,140,11,12.73,False,False,False,1,2022-09-01,2023-07-26
+3560,Mini Bodega Marathon,2022-09,2023-12,cerrada,2.0,16.0,,162,15,10.8,False,False,False,1,2022-09-28,2023-11-24
+3154,Ed. Eduardo de la Barra,2022-10,2022-11,,2.0,2.0,,1,1,1.0,False,False,False,1,2022-10-03,2022-10-03
+3554,21 Rojas Magallanes,2022-10,2023-08,cerrada,2.0,11.0,,64,10,6.4,False,False,False,1,2022-10-25,2023-07-18
+3557,Edificio Pedro Rico,2022-10,2024-04,cerrada,2.0,19.0,9.0,166,18,9.22,False,False,False,2,2022-10-06,2024-03-21
+3561,Edificio Pirineo,2022-10,2023-07,cerrada,2.0,10.0,,79,9,8.78,False,False,False,1,2022-10-05,2023-06-14
+3562,Workcenter Miraflor 1era Etapa,2022-10,2024-08,cerrada,2.0,23.0,10.0,257,22,11.68,False,False,False,3,2022-10-05,2024-07-05
+3563,RM0971 ASB Av. Recoleta Jose Maria Caro,2022-10,2023-01,,2.0,4.0,,4,3,1.33,False,False,False,1,2022-10-18,2022-12-19
+3564,Planta Castaños,2022-10,2023-04,cerrada,2.0,7.0,,13,6,2.17,False,False,False,1,2022-10-18,2023-03-29
+3566,Edificio Luis Videla,2022-10,2023-03,cerrada,2.0,6.0,,48,5,9.6,False,False,False,1,2022-10-20,2023-02-28
+3567,C-379 Vista San Francisco 2 Limache,2022-10,2023-10,cerrada,2.0,13.0,,24,8,3.0,False,False,False,2,2022-10-21,2023-09-13
+3568,"3568 PC-10 Pique Balmaceda, Línea 7 Tramo 3",2022-10,2025-07,cerrada,2.0,34.0,9.0,51,29,1.76,False,False,False,3,2022-10-27,2025-06-12
+3569,Post Venta Trinidad Ramirez,2022-10,2023-02,,2.0,5.0,,8,4,2.0,False,False,False,1,2022-10-25,2023-01-18
+3570,119 Edificio Las Pircas (Refugio II),2022-10,2024-11,cerrada,2.0,26.0,9.0,158,22,7.18,False,False,False,3,2022-10-28,2024-10-21
+3571,197 Rucalhue,2022-10,2024-02,cerrada,2.0,17.0,,82,16,5.12,False,False,False,1,2022-10-26,2024-01-02
+3565,"3565 Estación Baquedano Sur, Línea 7 Tramo 3.",2022-11,,activa,1.0,,9.0,77,43,1.79,False,False,False,3,2022-11-08,2026-08-11
+3572,Condominio Duo Carvajal,2022-11,2024-02,cerrada,2.0,16.0,,266,14,19.0,False,False,False,2,2022-11-02,2023-12-20
+3573,3573 112 Edificio Parque De Los Reyes l,2022-11,2025-11,activa,2.0,37.0,9.0,333,36,9.25,True,False,False,3,2022-11-02,2025-10-20
+3574,3574 Edificio Manquehue-Peragallo,2022-11,2026-06,activa,2.0,44.0,9.0,300,43,6.98,True,False,False,3,2022-11-04,2026-05-28
+3575,Paseo Walker,2022-11,2024-06,cerrada,2.0,20.0,9.0,222,19,11.68,False,False,False,3,2022-11-04,2024-05-16
+3576,RCA Americo Vespucio,2022-11,2023-08,cerrada,2.0,10.0,,16,9,1.78,False,False,False,1,2022-11-07,2023-07-12
+3577,OOCC CD Frio Walmart Quilicura,2022-11,2025-02,cerrada,2.0,28.0,10.0,222,27,8.22,False,False,False,2,2022-11-17,2025-01-31
+3578,Edificio San Eugenio Torre D,2022-11,2025-02,cerrada,2.0,28.0,10.0,254,26,9.77,False,False,False,2,2022-11-15,2025-01-14
+3579,3579 Post Ventas Valle Araucarias Buin,2022-11,2026-06,activa,2.0,44.0,10.0,19,17,1.12,True,False,False,3,2022-11-22,2026-05-28
+3580,Edificio Serrano,2022-11,2024-02,cerrada,2.0,16.0,,67,12,5.58,False,False,False,1,2022-11-22,2024-01-08
+3581,Post Venta (Obra Alto las Perdices),2022-11,2024-10,cerrada,2.0,24.0,9.0,26,15,1.73,False,False,False,3,2022-11-25,2024-09-09
+3583,Edificio Matta Vial,2022-11,2023-07,cerrada,2.0,9.0,,133,8,16.62,False,False,False,1,2022-11-28,2023-06-30
+3585,Academia,2022-11,2023-03,cerrada,2.0,5.0,,25,4,6.25,False,False,False,1,2022-11-30,2023-02-22
+3582,Las Dalias,2022-12,2024-01,cerrada,2.0,14.0,,57,8,7.12,False,False,False,1,2022-12-14,2023-07-07
+3584,Mirador Mapocho,2022-12,2023-02,,2.0,3.0,,12,2,6.0,False,False,False,1,2022-12-01,2023-01-18
+3586,Santa Elena,2022-12,2023-06,cerrada,2.0,7.0,,10,6,1.67,False,False,False,1,2022-12-05,2023-05-22
+3587,Jose Perez Cotapos,2022-12,2023-07,cerrada,2.0,8.0,,30,7,4.29,False,False,False,1,2022-12-05,2023-06-06
+3588,0571 C. Industrial Ferrocarril 2,2022-12,2023-10,cerrada,2.0,11.0,,38,10,3.8,False,False,False,1,2022-12-09,2023-09-26
+3589,Remodelacion Edificio Economia y Administracion Etapa 3,2022-12,2023-01,,2.0,2.0,,23,1,23.0,False,False,False,1,2022-12-09,2022-12-28
+3590,Las Araucarias,2022-12,2023-04,cerrada,2.0,5.0,,30,4,7.5,False,False,False,1,2022-12-07,2023-03-31
+3591,Parroquia Nuestra Señora de la Esperanza,2022-12,2024-05,cerrada,2.0,18.0,9.0,59,17,3.47,False,False,False,3,2022-12-16,2024-04-11
+3592,Estacion Cal y Canto Pique principal Linea 7 Tramo 2,2022-12,,activa,1.0,,9.0,75,40,1.88,False,False,False,5,2022-12-15,2026-07-15
+3593,Edificio Laguna Centro Torre H,2022-12,2024-11,cerrada,2.0,24.0,10.0,314,23,13.65,False,False,False,3,2022-12-15,2024-10-08
+3594,3594 Modernización Estadio U C.,2022-12,2025-09,cerrada,2.0,34.0,10.0,621,33,18.82,False,False,False,3,2022-12-22,2025-08-07
+3595,Edificio Abate Molina,2022-12,2024-03,cerrada,2.0,16.0,,110,13,8.46,False,False,False,1,2022-12-21,2023-12-06
+3597,Edificio Brown Sur,2022-12,2024-02,cerrada,2.0,15.0,,162,13,12.46,False,False,False,1,2022-12-27,2023-12-07
+3596,3596 Estación Baquedano Pique Oriente Línea 7 Tramo 3,2023-01,,activa,1.0,,9.0,31,26,1.19,False,False,False,3,2023-01-03,2026-06-23
+3598,Las Hualtatas,2023-01,2024-01,cerrada,2.0,13.0,,149,8,18.62,False,False,False,1,2023-01-03,2023-08-28
+3599,Demolicion Falabella Manquehue,2023-01,2023-04,cerrada,2.0,4.0,,66,3,22.0,False,False,False,1,2023-01-05,2023-03-31
+3600,Portal Santa Maria Etapa 5,2023-01,2023-10,cerrada,2.0,10.0,,90,9,10.0,False,False,False,1,2023-01-06,2023-09-05
+3601,3601 Parque Los Encinos,2023-01,,activa,1.0,,10.0,931,44,21.16,False,False,False,2,2023-01-11,2026-08-24
+3602,Condominio Panoramica Sur,2023-01,2024-09,cerrada,2.0,21.0,10.0,210,20,10.5,False,False,False,3,2023-01-18,2024-08-21
+3603,Enex Las Esteras,2023-01,2023-11,cerrada,2.0,11.0,,37,10,3.7,False,False,False,1,2023-01-19,2023-10-06
+3604,CT0025 Centro de Entrenamiento Deportes Acuaticos,2023-01,2023-11,cerrada,2.0,11.0,,98,10,9.8,False,False,False,1,2023-01-18,2023-10-24
+3605,Urbano Bustamante,2023-01,2024-09,cerrada,2.0,21.0,10.0,155,20,7.75,False,False,False,3,2023-01-19,2024-08-28
+3606,Briones Luco,2023-01,2024-12,cerrada,2.0,24.0,9.0,282,23,12.26,False,False,False,2,2023-01-19,2024-11-21
+3607,Los Alerces,2023-02,2024-08,cerrada,2.0,19.0,9.0,159,17,9.35,False,False,False,2,2023-02-02,2024-07-08
+3608,Edificio Zañartu,2023-02,2024-04,cerrada,2.0,15.0,9.0,157,14,11.21,False,False,False,2,2023-02-03,2024-03-20
+3609,Ayres de Chicureo Etapa Ayres E 1-2 1-3,2023-02,2023-11,cerrada,2.0,10.0,,115,9,12.78,False,False,False,1,2023-02-03,2023-10-30
+3610,Ayres de Chicureo Etapa Ayres E 2-2,2023-02,2026-01,activa,2.0,36.0,10.0,106,23,4.61,True,False,False,3,2023-02-03,2025-12-16
+3611,Edificio Benjamin,2023-02,2024-12,cerrada,2.0,23.0,9.0,251,18,13.94,False,False,False,3,2023-02-09,2024-11-06
+3612,59 Edificio oficina Cepech,2023-02,2023-11,cerrada,2.0,10.0,,56,8,7.0,False,False,False,1,2023-02-10,2023-10-13
+3613,Briza,2023-02,2023-06,cerrada,2.0,5.0,,26,4,6.5,False,False,False,1,2023-02-09,2023-05-04
+3614,Almacen N°4,2023-02,2023-11,cerrada,2.0,10.0,,34,9,3.78,False,False,False,1,2023-02-13,2023-10-10
+3615,Santa Elena,2023-02,2023-10,cerrada,2.0,9.0,,91,8,11.38,False,False,False,1,2023-02-10,2023-09-29
+3616,3616 PC- 11 Pique Tajamar Línea 7 Tramo 3,2023-02,,activa,1.0,,9.0,68,38,1.79,False,False,False,3,2023-02-28,2026-08-04
+3617,Mapocho II,2023-02,2023-10,cerrada,2.0,9.0,,26,5,5.2,False,False,False,1,2023-02-16,2023-09-08
+3618,Vasco de Gama,2023-02,2024-02,cerrada,2.0,13.0,,137,8,17.12,False,False,False,3,2023-02-21,2024-01-31
+3619,Edificio Ciudad Av.,2023-03,2024-02,cerrada,2.0,12.0,,100,9,11.11,False,False,False,1,2023-03-01,2023-11-07
+3620,Centro de Entrenamiento Tenis y DEP Raquet,2023-03,2023-11,cerrada,2.0,9.0,,159,8,19.88,False,False,False,1,2023-03-03,2023-10-18
+3621,3621 200- La Platina,2023-03,2025-08,cerrada,2.0,30.0,10.0,478,26,18.38,False,False,False,3,2023-03-03,2025-07-21
+3622,100 Barrio Oeste Etapa VIII,2023-03,2025-07,cerrada,2.0,29.0,10.0,97,25,3.88,False,False,False,3,2023-03-06,2025-06-09
+3623,Edificio Guillermo Mann,2023-03,2024-11,cerrada,2.0,21.0,9.0,251,20,12.55,False,False,False,2,2023-03-06,2024-10-04
+3624,Presidente Prieto,2023-03,2023-06,cerrada,2.0,4.0,,18,3,6.0,False,False,False,1,2023-03-15,2023-05-15
+3625,3625 Jardines de Esmeralda ll,2023-03,2026-05,activa,2.0,39.0,10.0,394,31,12.71,True,False,False,3,2023-03-14,2026-04-29
+3626,3626 Territoria Torre 4 fase 2,2023-03,2025-01,cerrada,2.0,23.0,9.0,640,19,33.68,False,False,False,3,2023-03-23,2024-12-12
+3627,Exequiel Fernandez Torre A+B,2023-03,2024-07,cerrada,2.0,17.0,9.0,121,16,7.56,False,False,False,4,2023-03-28,2024-06-05
+3628,Estacion Lo Martinez,2023-03,2023-11,cerrada,2.0,9.0,,68,8,8.5,False,False,False,1,2023-03-29,2023-10-10
+3629,Pique Calderon de la Barca,2023-03,2024-03,cerrada,2.0,13.0,9.0,91,12,7.58,False,False,False,3,2023-03-30,2024-02-21
+3630,Estacion El Bosque,2023-03,2024-03,cerrada,2.0,13.0,9.0,120,12,10.0,False,False,False,3,2023-03-30,2024-02-23
+3631,3631 168 La Granja Et. 1 y 2 ( Tradicional ),2023-04,,activa,1.0,,9.0,1013,41,24.71,False,False,False,4,2023-04-03,2026-08-31
+3632,202 Vida Nueva,2023-04,2023-10,cerrada,2.0,7.0,,25,6,4.17,False,False,False,1,2023-04-03,2023-09-04
+3633,3633 Edificio Álamos,2023-04,2024-09,cerrada,2.0,18.0,9.0,221,17,13.0,False,False,False,3,2023-04-10,2024-08-02
+3634,3634 Urbanización El Pedregal,2023-04,2025-12,activa,2.0,33.0,10.0,75,23,3.26,True,False,False,3,2023-04-10,2025-11-10
+3635,Edificio Tempo Mackenna,2023-04,2024-09,cerrada,2.0,18.0,10.0,255,17,15.0,False,False,False,2,2023-04-10,2024-08-01
+3636,Copec Principe de Gales,2023-04,2023-07,cerrada,2.0,4.0,,32,3,10.67,False,False,False,1,2023-04-18,2023-06-30
+3637,Santa Maria Office,2023-04,2024-05,cerrada,2.0,14.0,9.0,87,12,7.25,False,False,False,3,2023-04-17,2024-04-02
+3638,Strip Center Consistorial,2023-04,2024-01,cerrada,2.0,10.0,,99,9,11.0,False,False,False,1,2023-04-18,2023-12-18
+3639,Rio Newen,2023-04,2024-12,cerrada,2.0,21.0,10.0,198,19,10.42,False,False,False,2,2023-04-19,2024-11-08
+3640,San Isidro,2023-04,2023-06,cerrada,2.0,3.0,,4,2,2.0,False,False,False,1,2023-04-19,2023-05-31
+3641,USS Ciudad Empresarial,2023-04,2023-09,cerrada,2.0,6.0,,67,5,13.4,False,False,False,1,2023-04-21,2023-08-29
+3642,Complejo Patio Industrial Renca,2023-04,2023-09,cerrada,2.0,6.0,,65,5,13.0,False,False,False,1,2023-04-19,2023-08-14
+3643,Habilitacion Oficinas Eliodoro Yañez,2023-05,2024-03,cerrada,2.0,11.0,9.0,42,10,4.2,False,False,False,3,2023-05-03,2024-02-23
+3644,3644 Eco-Egaña Etapa 2,2023-05,2026-07,activa,2.0,39.0,9.0,518,38,13.63,True,False,False,3,2023-05-08,2026-06-08
+3645,3645 Eco-Egaña Etapas 1 y 3,2023-05,,activa,1.0,,9.0,828,40,20.7,False,False,False,3,2023-05-09,2026-08-28
+3646,Mirador Mapocho,2023-05,2024-04,cerrada,2.0,12.0,10.0,129,11,11.73,False,False,False,2,2023-05-10,2024-03-15
+3647,3647 Pie Andino,2023-05,2025-08,cerrada,2.0,28.0,9.0,560,27,20.74,False,False,False,2,2023-05-10,2025-07-28
+3648,3648 Mirador Cordillera,2023-05,2025-10,cerrada,2.0,30.0,10.0,203,29,7.0,False,False,False,2,2023-05-22,2025-09-26
+3649,3649 Jorge Cáceres,2023-05,2025-08,cerrada,2.0,28.0,,142,18,7.89,False,False,False,3,2023-05-24,2025-07-10
+3650,Condominio Mirasol,2023-05,2025-10,cerrada,2.0,30.0,9.0,120,24,5.0,False,False,False,2,2023-05-26,2025-09-26
+3651,3651 Sub Comisaria San Luis Peñalolén,2023-05,2025-05,cerrada,2.0,25.0,9.0,95,24,3.96,False,False,False,4,2023-05-26,2025-04-08
+3652,0578 Lider Lo Blanco,2023-06,2023-09,cerrada,2.0,4.0,,16,3,5.33,False,False,False,1,2023-06-05,2023-08-03
+3653,Edificio Colombia II,2023-06,2023-08,cerrada,2.0,3.0,,12,2,6.0,False,False,False,1,2023-06-07,2023-07-28
+3654,115 Eco Cerrillos,2023-06,2024-01,cerrada,2.0,8.0,,33,3,11.0,False,False,False,1,2023-06-06,2023-12-20
+3655,Escuela de Especialidades G.I.A,2023-06,2023-10,cerrada,2.0,5.0,,10,4,2.5,False,False,False,1,2023-06-08,2023-09-29
+3656,198 Horizonte Sin Limites,2023-06,2024-09,cerrada,2.0,16.0,10.0,149,15,9.93,False,False,False,3,2023-06-15,2024-08-09
+3657,Gabriela Mistral,2023-06,2024-03,cerrada,2.0,10.0,9.0,50,9,5.56,False,False,False,2,2023-06-16,2024-02-29
+3658,Espacio Valle Grande,2023-06,2023-09,cerrada,2.0,4.0,,16,3,5.33,False,False,False,1,2023-06-19,2023-08-30
+3659,3659 El Ciruelillo,2023-06,,activa,1.0,,10.0,646,39,16.56,False,False,False,3,2023-06-19,2026-08-31
+3660,3660 Edificio Álvarez de Toledo,2023-06,2024-09,cerrada,2.0,16.0,9.0,208,13,16.0,False,False,False,3,2023-06-20,2024-08-30
+3661,3661 PC - 08 Pique Ernesto Riquelme Línea 7 Tramo 2,2023-07,,activa,1.0,,9.0,41,29,1.41,False,False,False,3,2023-07-18,2026-08-13
+3662,Calle Municipal de la Pintana,2023-07,2023-11,cerrada,2.0,5.0,,26,4,6.5,False,False,False,1,2023-07-03,2023-10-23
+3663,Reina Victoria,2023-07,2024-02,cerrada,2.0,8.0,,24,5,4.8,False,False,False,1,2023-07-05,2023-11-17
+3664,Remodelacion Casino Galletas Carozzi - Nos,2023-07,2024-04,cerrada,2.0,10.0,9.0,59,9,6.56,False,False,False,3,2023-07-06,2024-03-12
+3665,Restobar MPV,2023-07,2024-02,cerrada,2.0,8.0,,116,6,19.33,False,False,False,1,2023-07-13,2023-12-22
+3666,Conjunto Residencial Tacora,2023-07,2023-08,cerrada,2.0,2.0,,4,1,4.0,True,False,False,1,2023-07-13,2023-07-13
+3667,3667 Post Venta Lyon ( Zona Centro ),2023-07,2026-03,activa,2.0,33.0,9.0,56,31,1.81,True,False,False,4,2023-07-18,2026-02-24
+3668,Edificio Estoril,2023-07,2024-03,cerrada,2.0,9.0,9.0,67,8,8.38,False,False,False,2,2023-07-18,2024-02-19
+3669,"3669 I Center Sur, Lampa",2023-07,2025-07,cerrada,2.0,25.0,10.0,307,24,12.79,False,False,False,3,2023-07-19,2025-06-03
+3670,Planta de Resina Resiclada Rpet.,2023-07,2023-09,cerrada,2.0,3.0,,6,2,3.0,False,False,False,1,2023-07-26,2023-08-25
+3671,Plaza Perú II,2023-07,2024-05,cerrada,2.0,11.0,9.0,65,9,7.22,False,False,False,3,2023-07-28,2024-04-15
+3674,Conjunto Residencial Tacora,2023-07,2023-09,cerrada,2.0,3.0,,27,2,13.5,False,False,False,1,2023-07-19,2023-08-18
+3672,Santa Elena,2023-08,2024-07,cerrada,2.0,12.0,9.0,153,11,13.91,False,False,False,2,2023-08-11,2024-06-12
+3673,Parque Riesco,2023-08,2023-10,cerrada,2.0,3.0,,11,2,5.5,False,False,False,1,2023-08-03,2023-09-29
+3675,3675 Shredder Aza,2023-08,2024-05,cerrada,2.0,10.0,10.0,44,9,4.89,False,False,False,2,2023-08-02,2024-04-22
+3676,Barrio San Luis Valle Grande ET1,2023-08,2023-11,cerrada,2.0,4.0,,20,3,6.67,False,False,False,1,2023-08-07,2023-10-03
+3677,Zañartu,2023-08,2024-01,cerrada,2.0,6.0,,4,1,4.0,False,False,False,1,2023-08-03,2023-08-17
+3678,Alto Sacramento IV Etapa 1,2023-08,2025-03,cerrada,2.0,20.0,10.0,34,11,3.09,False,False,False,3,2023-08-08,2025-02-19
+3679,3679 Teleférico Pio Nono,2023-08,2025-04,cerrada,2.0,21.0,10.0,75,20,3.75,False,False,False,4,2023-08-16,2025-03-24
+3680,3680 0581 Edificio A Clínica U. Andes,2023-08,2024-05,cerrada,2.0,10.0,9.0,60,9,6.67,False,False,False,3,2023-08-10,2024-04-22
+3681,Edificio Lia Aguirre,2023-08,2024-02,cerrada,2.0,7.0,,38,6,6.33,False,False,False,2,2023-08-14,2024-01-02
+3682,3682 PC-06 Pique Construcción Mapocho Línea 7 Tramo 2,2023-08,,activa,1.0,,9.0,35,28,1.25,False,False,False,2,2023-08-22,2026-08-13
+3683,C.E. Atletismo Estadio Nacional,2023-08,2023-11,cerrada,2.0,4.0,,96,3,32.0,False,False,False,1,2023-08-18,2023-10-20
+3684,3684 Parque Arauco Kennedy,2023-08,2026-07,activa,2.0,36.0,9.0,691,35,19.74,True,False,False,2,2023-08-31,2026-06-09
+3686,Ecuador Ralei,2023-08,2023-12,cerrada,2.0,5.0,,23,4,5.75,False,False,False,1,2023-08-31,2023-11-03
+3687,9623 Habilitacion HYM Tobalaba,2023-09,2024-01,cerrada,2.0,5.0,,62,4,15.5,False,False,False,2,2023-09-01,2023-12-04
+3688,3688 Post Venta Lira,2023-09,2025-03,cerrada,2.0,19.0,10.0,14,12,1.17,False,False,False,3,2023-09-05,2025-02-06
+3689,Edificio Holanda California,2023-09,2023-12,cerrada,2.0,4.0,,14,3,4.67,False,False,False,1,2023-09-05,2023-11-30
+3690,3690 Capitán Avalos,2023-09,2024-09,cerrada,2.0,13.0,9.0,88,12,7.33,False,False,False,2,2023-09-12,2024-08-28
+3691,3691 Dramaturgo Luis Rivano,2023-09,2025-02,cerrada,2.0,18.0,10.0,194,17,11.41,False,False,False,2,2023-09-12,2025-01-09
+3692,3692 365 Centro Turístico Pirque,2023-09,,activa,1.0,,9.0,267,36,7.42,False,False,False,3,2023-09-13,2026-08-31
+3693,3693 Alto Parque Bicentenario Cerrillos 2,2023-09,2026-04,retiro momt,2.0,32.0,9.0,292,29,10.07,True,False,False,4,2023-09-13,2026-03-19
+3694,Walmart Lo Aguirre,2023-09,2024-03,cerrada,2.0,7.0,10.0,31,5,6.2,False,False,False,2,2023-09-22,2024-02-16
+3697,Alpha,2023-09,2023-12,cerrada,2.0,4.0,,5,3,1.67,False,False,False,1,2023-09-28,2023-11-10
+3685,3685 Simón Bolívar,2023-10,2025-01,cerrada,2.0,16.0,9.0,179,15,11.93,False,False,False,3,2023-10-11,2024-12-27
+3696,Conservación Liceo Instituto Nacional,2023-10,2024-03,cerrada,2.0,6.0,,80,4,20.0,False,False,False,2,2023-10-13,2024-01-26
+3698,Cerrillos,2023-10,2024-03,cerrada,2.0,6.0,10.0,20,5,4.0,False,False,False,2,2023-10-02,2024-02-12
+3699,C-O-0145 Edificio La Oración,2023-10,2024-05,cerrada,2.0,8.0,9.0,201,7,28.71,False,False,False,2,2023-10-03,2024-04-23
+3700,3700 Townhouse Paicaví,2023-10,2024-11,cerrada,2.0,14.0,9.0,25,13,1.92,False,False,False,2,2023-10-16,2024-10-09
+3701,Hacienda Buin,2023-10,2023-12,cerrada,2.0,3.0,,6,2,3.0,False,False,False,1,2023-10-16,2023-11-27
+3702,3702 Manuel Rodríguez,2023-10,2025-06,cerrada,2.0,21.0,9.0,171,12,14.25,False,False,False,3,2023-10-20,2025-05-29
+3703,Extension Superficial Estacion Copa Lo Martinez L2 Metro,2023-10,2023-12,cerrada,2.0,3.0,,6,2,3.0,False,False,False,1,2023-10-19,2023-11-06
+3705,3705 San Isidro,2023-10,2025-04,cerrada,2.0,19.0,9.0,87,9,9.67,False,False,False,2,2023-10-24,2025-03-07
+3704,3704 Post Ventas 10-01-07-1597 (INDUSTRIAL),2023-11,,activa,1.0,,10.0,46,28,1.64,False,False,False,4,2023-11-09,2026-08-24
+3706,3706 Parque Aconcagua ll E 3,2023-11,,activa,1.0,,10.0,83,34,2.44,False,False,False,4,2023-11-02,2026-08-21
+3707,3707 Rivas,2023-11,2025-09,cerrada,2.0,23.0,9.0,146,19,7.68,False,False,False,2,2023-11-02,2025-08-19
+3708,3708 115 Eco Cerrillos,2023-11,2024-09,cerrada,2.0,11.0,10.0,169,10,16.9,False,False,False,2,2023-11-07,2024-08-22
+3709,3709 Teleférico Pio Nono,2023-11,2025-12,activa,2.0,26.0,10.0,97,23,4.22,True,False,False,4,2023-11-08,2025-11-26
+3710,3710 Parque Araya,2023-11,,activa,1.0,,9.0,1005,34,29.56,False,False,False,2,2023-11-07,2026-08-07
+3711,3711 Lote 29 A,2023-11,2024-10,cerrada,2.0,12.0,10.0,60,11,5.45,False,False,False,3,2023-11-08,2024-09-05
+3712,3712 Lyon - Bilbao,2023-11,2024-09,cerrada,2.0,11.0,10.0,30,10,3.0,False,False,False,4,2023-11-10,2024-08-23
+3713,3713 Gimnasio Colegio Craighouse,2023-11,2024-11,cerrada,2.0,13.0,10.0,58,12,4.83,False,False,False,2,2023-11-13,2024-10-04
+3714,3714 Mirador de las Pircas,2023-11,2024-06,cerrada,2.0,8.0,9.0,27,7,3.86,False,False,False,3,2023-11-13,2024-05-15
+3715,3715 Vista Cordillera,2023-11,2025-04,cerrada,2.0,18.0,10.0,137,17,8.06,False,False,False,2,2023-11-14,2025-03-20
+3716,3716 Comedores (Base Aérea Colina),2023-11,2024-08,cerrada,2.0,10.0,10.0,8,6,1.33,False,False,False,3,2023-11-16,2024-07-10
+3717,Edificio Urrejola,2023-11,2024-08,cerrada,2.0,10.0,9.0,28,9,3.11,False,False,False,2,2023-11-17,2024-07-09
+3718,Habilitación Padre Mariano,2023-11,2024-02,cerrada,2.0,4.0,,7,3,2.33,False,False,False,1,2023-11-20,2024-01-05
+3719,9423 Ampliación Parque Arauco Quilicura,2023-11,2024-04,cerrada,2.0,6.0,9.0,40,5,8.0,False,False,False,2,2023-11-22,2024-03-08
+3720,3720 Edificio Colón,2023-11,2024-07,cerrada,2.0,9.0,9.0,13,7,1.86,False,False,False,2,2023-11-22,2024-06-07
+3721,3721 Ampliación Mall Plaza Vespucio S-606,2023-11,2025-01,cerrada,2.0,15.0,10.0,230,14,16.43,False,False,False,2,2023-11-22,2024-12-06
+3722,"Mantención, Preparación y Entrega Stock",2023-11,2024-03,cerrada,2.0,5.0,,5,4,1.25,False,False,False,2,2023-11-24,2024-02-07
+3723,Bodega 4N,2023-11,2024-02,cerrada,2.0,4.0,,4,3,1.33,False,False,False,1,2023-11-27,2024-01-09
+3724,3724 Townhouse Príncipe de Gales,2023-11,2024-11,cerrada,2.0,13.0,9.0,86,12,7.17,False,False,False,4,2023-11-29,2024-10-21
+3726,3726 Los Laureles,2023-11,2024-10,cerrada,2.0,12.0,9.0,133,11,12.09,False,False,False,2,2023-11-30,2024-09-10
+3727,3727 Gaspar Villarroel,2023-12,2025-10,cerrada,2.0,23.0,9.0,463,22,21.05,False,False,False,3,2023-12-05,2025-09-12
+3728,3728 Laboratorios Saval,2023-12,,activa,1.0,,9.0,31,21,1.48,False,False,False,3,2023-12-06,2026-07-09
+3729,3729 Laboratorio De Tejidos,2023-12,2024-05,cerrada,2.0,6.0,,6,4,1.5,False,False,False,3,2023-12-07,2024-04-26
+3730,Castillo Velasco,2023-12,2024-02,cerrada,2.0,3.0,,14,2,7.0,False,False,False,2,2023-12-13,2024-01-24
+3731,Los Laureles,2023-12,2024-04,cerrada,2.0,5.0,9.0,14,4,3.5,False,False,False,3,2023-12-13,2024-03-18
+3732,3732 Eco Florida,2023-12,2025-07,cerrada,2.0,20.0,9.0,325,19,17.11,False,False,False,3,2023-12-20,2025-06-27
+3733,3733 Laguna Parque B12,2023-12,2025-07,cerrada,2.0,20.0,10.0,409,19,21.53,False,False,False,3,2023-12-20,2025-06-10
+3734,3734 Remodelaciones Baños Camarines,2023-12,2024-06,cerrada,2.0,7.0,10.0,16,6,2.67,False,False,False,3,2023-12-27,2024-05-07
+3725,3725 Bodega Maipú,2024-01,2025-04,cerrada,2.0,16.0,10.0,25,12,2.08,False,False,False,2,2024-01-09,2025-03-31
+3736,casa Aguilar,2024-01,2024-03,cerrada,2.0,3.0,9.0,6,2,3.0,False,False,False,2,2024-01-05,2024-02-29
+3737,3737 Edificio Campus Santander,2024-01,2025-11,cerrada,2.0,23.0,9.0,193,18,10.72,False,False,False,2,2024-01-08,2025-10-06
+3738,3738 Carlos Cortés,2024-01,2024-10,cerrada,2.0,10.0,9.0,103,9,11.44,False,False,False,2,2024-01-04,2024-09-16
+3739,3739 OPL II ENEA,2024-01,2025-03,cerrada,2.0,15.0,10.0,172,14,12.29,False,False,False,2,2024-01-08,2025-02-04
+3740,3740 Conjunto Residencial Tacora,2024-01,2025-04,cerrada,2.0,16.0,10.0,381,15,25.4,False,False,False,2,2024-01-05,2025-03-19
+3741,3741 Burgos,2024-01,2024-10,cerrada,2.0,10.0,9.0,89,9,9.89,False,False,False,2,2024-01-12,2024-09-04
+3742,3742 Pedro De Valdivia,2024-01,2024-10,cerrada,2.0,10.0,10.0,146,9,16.22,False,False,False,2,2024-01-15,2024-09-06
+3743,3743 Alto Las Perdices ll,2024-01,2025-03,cerrada,2.0,15.0,9.0,201,14,14.36,False,False,False,2,2024-01-10,2025-02-10
+3744,3744 Rmd Kwikform chile,2024-01,,activa,1.0,,10.0,172,29,5.93,False,False,False,2,2024-01-15,2026-08-25
+3745,3745 Parque Quinta Santo Domingo,2024-01,2024-07,cerrada,2.0,7.0,9.0,89,6,14.83,False,False,False,2,2024-01-17,2024-06-25
+3746,3746 Centro De Acopio La Vara,2024-01,2025-01,cerrada,2.0,13.0,10.0,99,10,9.9,False,False,False,2,2024-01-19,2024-12-26
+3747,3747 C.E. Atletismo Estadio Nacional,2024-01,2024-07,cerrada,2.0,7.0,10.0,47,6,7.83,False,False,False,2,2024-01-23,2024-06-11
+3748,3748 Casa K,2024-01,2025-04,cerrada,2.0,16.0,10.0,27,13,2.08,False,False,False,2,2024-01-23,2025-03-27
+3749,3749 Sol Poniente,2024-01,2024-03,cerrada,2.0,3.0,10.0,18,2,9.0,False,False,False,2,2024-01-23,2024-02-23
+3750,3750 Condominio Parque Del Sur,2024-01,2025-08,cerrada,2.0,20.0,9.0,244,19,12.84,False,False,False,2,2024-01-25,2025-07-24
+3751,3751 Refugio Quilin,2024-01,,activa,1.0,,9.0,346,31,11.16,True,False,False,2,2024-01-31,2026-08-10
+3752,3752 I-346 Valdovinos 201,2024-01,,activa,1.0,,9.0,453,31,14.61,True,False,False,2,2024-01-29,2026-08-04
+3753,3753 Guillermo Mann,2024-01,2024-11,cerrada,2.0,11.0,9.0,87,10,8.7,False,False,False,2,2024-01-30,2024-10-08
+3754,3754 Lote 19,2024-01,2024-08,cerrada,2.0,8.0,10.0,56,7,8.0,False,False,False,2,2024-01-31,2024-07-09
+3755,3755 Data Center Chile 2,2024-01,2026-01,activa,2.0,25.0,9.0,752,24,31.33,True,False,False,2,2024-01-31,2025-12-30
+3756,3756 Condominio Rio Claro,2024-02,2024-06,cerrada,2.0,5.0,9.0,15,4,3.75,False,False,False,1,2024-02-01,2024-05-06
+3757,3757 137 AMBIPAR POST VENTA,2024-02,2024-06,cerrada,2.0,5.0,10.0,27,4,6.75,False,False,False,1,2024-02-02,2024-05-17
+3759,3759 Campus 80,2024-02,2024-04,cerrada,2.0,3.0,10.0,38,2,19.0,False,False,False,1,2024-02-06,2024-03-21
+3760,3760 By-Pass RCI Enap Maipú,2024-02,2024-03,cerrada,2.0,2.0,10.0,11,1,11.0,False,False,False,1,2024-02-09,2024-02-21
+3761,3761 Eco España,2024-02,2024-09,cerrada,2.0,8.0,9.0,39,7,5.57,False,False,False,1,2024-02-09,2024-08-21
+3762,3762 Teleférico Pio Nono Estación Inferior,2024-02,2024-11,cerrada,2.0,10.0,10.0,12,4,3.0,False,False,False,1,2024-02-12,2024-10-25
+3763,3763 General O´brien,2024-02,2025-03,cerrada,2.0,14.0,9.0,56,13,4.31,False,False,False,1,2024-02-15,2025-02-03
+3764,3764 Campus San Joaquín,2024-02,2024-12,cerrada,2.0,11.0,9.0,27,9,3.0,False,False,False,1,2024-02-13,2024-11-05
+3765,3765 322- Urbano Park,2024-02,2025-09,cerrada,2.0,20.0,10.0,289,19,15.21,False,False,False,1,2024-02-13,2025-08-14
+3766,3766 Mantenimiento Y Recuperación De Piscina y Área Deportiva Escuela De Aviación,2024-02,2025-04,cerrada,2.0,15.0,10.0,50,14,3.57,False,False,False,1,2024-02-22,2025-03-11
+3767,3767 Alvi - Unimarc,2024-02,2024-10,cerrada,2.0,9.0,10.0,63,8,7.88,False,False,False,1,2024-02-20,2024-09-06
+3768,3768 Unimarc Isla De Maipo,2024-02,2024-08,cerrada,2.0,7.0,10.0,32,6,5.33,False,False,False,1,2024-02-21,2024-07-24
+3770,3770 La Travesía,2024-02,2024-07,cerrada,2.0,6.0,10.0,4,4,1.0,False,False,False,1,2024-02-22,2024-06-25
+3771,3771 Obra Puratos,2024-02,2024-07,cerrada,2.0,6.0,10.0,27,5,5.4,False,False,False,1,2024-02-22,2024-06-04
+3772,3772 Ampliación Hotel Dreams Monticello,2024-02,2024-10,cerrada,2.0,9.0,10.0,51,8,6.38,False,False,False,1,2024-02-27,2024-09-13
+3773,3773 Condominio Alto La Cruz Etapa 3,2024-02,2025-06,cerrada,2.0,17.0,9.0,315,16,19.69,False,False,False,1,2024-02-29,2025-05-13
+3758,3758 Patios De Berlioz,2024-03,2025-10,cerrada,2.0,20.0,10.0,594,19,31.26,False,False,False,2,2024-03-15,2025-09-03
+3769,3769 Aviador Acevedo,2024-03,2024-05,cerrada,2.0,3.0,9.0,14,2,7.0,False,False,False,1,2024-03-05,2024-04-15
+3777,3777 Edificio Las Clarisas,2024-03,2025-10,cerrada,2.0,20.0,9.0,572,18,31.78,False,False,False,1,2024-03-13,2025-09-30
+3778,3778 609 Desa-Revex,2024-03,2025-02,cerrada,2.0,12.0,10.0,68,11,6.18,False,False,False,1,2024-03-04,2025-01-24
+3780,3780 Mapocho Now,2024-03,2026-02,activa,2.0,24.0,9.0,311,23,13.52,True,False,False,1,2024-03-07,2026-01-30
+3781,3781 Alderete Cook 2,2024-03,2025-01,cerrada,2.0,11.0,9.0,94,10,9.4,False,False,False,1,2024-03-08,2024-12-03
+3782,3782 Paracaidista Boe,2024-03,2024-10,cerrada,2.0,8.0,10.0,40,7,5.71,False,False,False,1,2024-03-12,2024-09-03
+3783,3783 Edificio Play,2024-03,2025-12,activa,2.0,22.0,9.0,427,21,20.33,True,False,False,1,2024-03-13,2025-11-07
+3784,3784 318 Barrio Parque Santiago,2024-03,2026-02,cerrada,2.0,24.0,9.0,300,22,13.64,False,False,False,1,2024-03-13,2026-01-16
+3785,3785 Patios De Nibsa,2024-03,2026-02,activa,2.0,24.0,10.0,948,23,41.22,True,False,False,1,2024-03-14,2026-01-30
+3786,3786 Aires del monte,2024-03,2024-09,cerrada,2.0,7.0,10.0,29,5,5.8,False,False,False,2,2024-03-18,2024-08-28
+3787,3787 Remodelación Patio De Comida Mall Florida Center,2024-03,2024-08,cerrada,2.0,6.0,,76,5,15.2,False,False,False,1,2024-03-22,2024-07-10
+3788,3788 San Nicolas,2024-03,,activa,1.0,,10.0,161,25,6.44,False,False,False,1,2024-03-20,2026-08-31
+3789,3789 Metrica,2024-03,2024-12,cerrada,2.0,10.0,,94,9,10.44,False,False,False,1,2024-03-21,2024-11-28
+3790,3790 176- Alcalá Las Torres,2024-03,,activa,1.0,,9.0,306,27,11.33,False,False,False,1,2024-03-22,2026-08-13
+3791,3791 Edificio Centro Oriente,2024-04,2024-11,cerrada,2.0,8.0,9.0,58,7,8.29,False,False,False,1,2024-04-04,2024-10-16
+3792,3792 Edificio Manuel De Salas,2024-04,2024-08,cerrada,2.0,5.0,,11,4,2.75,False,False,False,2,2024-04-05,2024-07-29
+3793,3793 Edificio Teatinos,2024-04,,activa-retiro,1.0,,9.0,368,24,15.33,True,False,False,1,2024-04-11,2026-03-10
+3794,3794 Nave 2-Oficinas Modulo 2,2024-04,2024-12,cerrada,2.0,9.0,,21,8,2.62,False,False,False,1,2024-04-15,2024-11-29
+3795,3795 Fundaciones Mall Vivo,2024-04,2024-09,cerrada,2.0,6.0,,3,2,1.5,False,False,False,1,2024-04-16,2024-08-06
+3796,3796 Alta Vista Del Peñón,2024-04,,activa,1.0,,10.0,80,19,4.21,False,False,False,1,2024-04-15,2026-08-18
+3797,3797 Valle Tranquilo ll,2024-04,2025-05,cerrada,2.0,14.0,10.0,42,12,3.5,False,False,False,1,2024-04-16,2025-04-25
+3798,3798 Nueva Planta Cory,2024-04,2024-12,cerrada,2.0,9.0,10.0,22,8,2.75,False,False,False,1,2024-04-22,2024-11-21
+3799,3799 Achs Alameda,2024-04,2025-06,cerrada,2.0,15.0,9.0,151,14,10.79,False,False,False,1,2024-04-22,2025-05-12
+3800,3800 Campo Lindo,2024-04,2025-08,cerrada,2.0,17.0,10.0,94,15,6.27,False,False,False,1,2024-04-24,2025-07-17
+3801,3801 Cesfam Huamachuco Renca,2024-04,2024-08,cerrada,2.0,5.0,,4,3,1.33,False,False,False,1,2024-04-30,2024-07-05
+3802,3802 SWM Strip Center Walker Martinez,2024-04,2025-03,cerrada,2.0,12.0,,37,11,3.36,False,False,False,1,2024-04-30,2025-02-13
+3803,3803 Vitapark,2024-04,,activa,1.0,,10.0,182,29,6.28,False,False,False,1,2024-04-30,2026-08-31
+3804,3804 Reposición con Relocalización Brigada de Investigación Criminal PDI San Ramon,2024-05,2024-12,cerrada,2.0,8.0,,20,7,2.86,False,False,False,1,2024-05-03,2024-11-15
+3805,3805 Casa Miguel Claro,2024-05,2024-06,cerrada,2.0,2.0,,5,1,5.0,False,False,False,1,2024-05-08,2024-05-29
+3809,3809 Espacio Ceremonial Parque Del Recuerdo Cordillera,2024-05,2025-09,cerrada,2.0,17.0,,56,15,3.73,False,False,False,1,2024-05-10,2025-08-14
+3810,3810 Alto Buzeta,2024-05,2025-12,activa,2.0,20.0,10.0,112,17,6.59,True,False,False,1,2024-05-13,2025-11-28
+3811,3811 GDI- Los Almendros DS,2024-05,2024-09,cerrada,2.0,5.0,,8,4,2.0,False,False,False,1,2024-05-15,2024-08-20
+3812,3812 Liceo Balmaceda,2024-05,2024-10,cerrada,2.0,6.0,10.0,8,5,1.6,False,False,False,1,2024-05-17,2024-09-23
+3813,3813 BODEGA 4N,2024-05,2024-08,cerrada,2.0,4.0,,5,3,1.67,False,False,False,1,2024-05-17,2024-07-29
+3814,3814 Ampliación Nave de Duchas Mujeres Planta Good Year,2024-05,2025-04,cerrada,2.0,12.0,10.0,20,10,2.0,False,False,False,1,2024-05-20,2025-03-11
+3815,3815 0582 Edificio De Carrera Interdisciplinarias PUC,2024-05,2025-07,cerrada,2.0,15.0,,222,14,15.86,False,False,False,1,2024-05-23,2025-06-13
+3817,"3817 Taller. Cuarzo, Mármoles y Granitos",2024-05,,activa,1.0,,10.0,31,16,1.94,False,False,False,1,2024-05-29,2026-06-25
+3818,3818 Edificio Barrio Cueto,2024-05,,retiro momt,1.0,,9.0,189,20,9.45,True,False,False,1,2024-05-29,2025-12-11
+3819,3819 Data 061 2024,2024-05,,activa,1.0,,10.0,801,28,28.61,False,False,False,1,2024-05-30,2026-08-31
+3824,3824 Rafer,2024-06,,activa,1.0,,10.0,9,8,1.12,False,False,False,1,2024-06-04,2026-08-18
+3825,3825 Suecia,2024-06,2025-01,cerrada,2.0,8.0,9.0,41,7,5.86,False,False,False,1,2024-06-04,2024-12-03
+3826,3826 Remodelación Camarines PMA,2024-06,2024-10,cerrada,2.0,5.0,,6,4,1.5,False,False,False,1,2024-06-17,2024-09-13
+3827,3827 Condominio Las Flores,2024-06,2024-12,cerrada,2.0,7.0,9.0,18,6,3.0,False,False,False,1,2024-06-18,2024-11-28
+3828,3828 Jardín Portales,2024-06,2025-09,cerrada,2.0,16.0,9.0,215,15,14.33,False,False,False,1,2024-06-27,2025-08-12
+3829,3829 San Ignacio II Remodelación SI 2 R,2024-06,2024-09,cerrada,2.0,4.0,,12,3,4.0,False,False,False,1,2024-06-26,2024-08-26
+3830,3830 Eterna,2024-06,,activa,1.0,,9.0,85,23,3.7,False,False,False,1,2024-06-26,2026-08-26
+3816,3816 Construcción Cuartel Policial De Investigaciones Quilicura,2024-07,2025-07,cerrada,2.0,13.0,,31,12,2.58,False,False,False,1,2024-07-19,2025-06-09
+3831,3831 Centro Espacial Nacional,2024-07,2025-12,activa,2.0,18.0,,141,17,8.29,True,False,False,1,2024-07-02,2025-11-10
+3832,3832 Viñedos De Buin,2024-07,,activa,1.0,,10.0,551,22,25.05,False,False,False,1,2024-07-03,2026-08-10
+3833,3833 Eco Egaña Conexión Metro,2024-07,2024-08,cerrada,2.0,2.0,,9,1,9.0,False,False,False,1,2024-07-04,2024-07-30
+3834,3834 Bodega Lampa,2024-07,,activa,1.0,,10.0,49,18,2.72,False,False,False,2,2024-07-05,2026-07-08
+3835,3835 LDS A11,2024-07,2026-02,activa,2.0,20.0,,261,19,13.74,True,False,False,1,2024-07-09,2026-01-30
+3836,3836 Cirion,2024-07,2025-09,cerrada,2.0,15.0,10.0,65,14,4.64,False,False,False,1,2024-07-10,2025-08-29
+3837,3837 Alvi - Peñaflor,2024-07,2024-12,cerrada,2.0,6.0,,29,5,5.8,False,False,False,1,2024-07-11,2024-11-29
+3838,3838 Antilhue,2024-07,2024-12,cerrada,2.0,6.0,,12,5,2.4,False,False,False,1,2024-07-10,2024-11-25
+3839,"3839 Habilitación S 10, Maipú",2024-07,2025-01,cerrada,2.0,7.0,,71,6,11.83,False,False,False,1,2024-07-15,2024-12-17
+3840,3840 Bodega Comachi,2024-07,2025-01,cerrada,2.0,7.0,10.0,5,4,1.25,False,False,False,1,2024-07-12,2024-12-20
+3841,3841 Torre c Huechuraba,2024-07,2025-07,cerrada,2.0,13.0,9.0,232,12,19.33,False,False,False,1,2024-07-18,2025-06-30
+3842,3842 Muestreo Abastible,2024-07,2024-08,cerrada,2.0,2.0,,3,1,3.0,False,False,False,1,2024-07-15,2024-07-29
+3843,3843 Neo-Solier,2024-07,2026-03,activa,2.0,21.0,,216,17,12.71,True,False,False,1,2024-07-18,2026-02-26
+3844,3844 0589 Mall Vivo Puente Alto,2024-07,2025-11,cerrada,2.0,17.0,,167,16,10.44,False,False,False,1,2024-07-18,2025-10-13
+3845,"3845 Akikb, Canta Gallo",2024-07,2025-08,cerrada,2.0,14.0,,127,13,9.77,False,False,False,1,2024-07-24,2025-07-17
+3846,3846 PASEO EL ROSAL,2024-07,2025-07,cerrada,2.0,13.0,,74,12,6.17,False,False,False,1,2024-07-23,2025-06-13
+3847,3847 Planta San Gabriel,2024-07,2024-11,cerrada,2.0,5.0,10.0,20,2,10.0,False,False,False,1,2024-07-23,2024-10-24
+3848,3848 Remodelación Líder San Antonio,2024-07,2025-01,cerrada,2.0,7.0,,32,6,5.33,False,False,False,1,2024-07-27,2024-12-05
+3849,3849 Mayor Abe,2024-07,2025-04,cerrada,2.0,10.0,,150,9,16.67,False,False,False,1,2024-07-29,2025-03-20
+3850,3850 Edificio Alameda,2024-07,2025-03,cerrada,2.0,9.0,,105,8,13.12,False,False,False,1,2024-07-26,2025-02-07
+3851,3851 Oficinas Almirante Pastene,2024-07,2024-12,cerrada,2.0,6.0,,35,5,7.0,False,False,False,1,2024-07-29,2024-11-18
+3853,3853 Nueva Ilusión San Luis,2024-07,,activa,1.0,,9.0,365,19,19.21,True,False,False,1,2024-07-26,2026-01-08
+3854,3854 Post Ventas Briones Luco,2024-08,2026-05,activa,2.0,22.0,9.0,25,14,1.79,True,False,False,1,2024-08-05,2026-04-10
+3855,3855 Manuel Rodriguez,2024-08,2026-03,activa,2.0,20.0,9.0,139,15,9.27,True,False,False,1,2024-08-06,2026-02-26
+3856,3856 Casas Vista Cumbres,2024-08,2025-05,cerrada,2.0,10.0,9.0,14,8,1.75,False,False,False,1,2024-08-07,2025-04-16
+3857,3857 Vista Parque,2024-08,,cerrada,1.0,,9.0,330,18,18.33,True,False,False,1,2024-08-08,2026-08-17
+3858,"3858 Pintor Cicarelli l, Etapa ll",2024-08,2025-09,cerrada,2.0,14.0,,202,13,15.54,False,False,False,1,2024-08-14,2025-08-28
+3859,3859 EdificioTempo Carrera,2024-08,,activa,1.0,,9.0,117,17,6.88,False,False,False,2,2024-08-14,2026-08-28
+3860,3860 Valle De La Luna,2024-08,2025-01,cerrada,2.0,6.0,10.0,45,5,9.0,False,False,False,1,2024-08-19,2024-12-04
+3861,3861  McDONALDS Macul,2024-08,2024-10,cerrada,2.0,3.0,,5,2,2.5,False,False,False,1,2024-08-23,2024-09-26
+3862,3862 Parque Cerro Navia,2024-08,,activa,1.0,,10.0,24,20,1.2,False,False,False,1,2024-08-27,2026-08-24
+3863,3863 Vista Aguila,2024-08,,activa,1.0,,10.0,107,23,4.65,False,False,False,1,2024-08-27,2026-08-27
+3864,3864 Data Center Lampa,2024-08,2026-08,activa,2.0,25.0,10.0,470,24,19.58,True,False,False,1,2024-08-29,2026-07-30
+3865,3865 Edificio Zañartu,2024-08,,activa,1.0,,9.0,299,25,11.96,False,False,False,1,2024-08-27,2026-08-27
+3866,"3866 Condominio San Pablo Curauma ll, Placilla De Peñuelas",2024-08,2025-07,cerrada,2.0,12.0,,111,11,10.09,False,False,False,1,2024-08-29,2025-06-23
+3867,3867 AKI KB Bilbao,2024-08,2025-06,cerrada,2.0,11.0,9.0,49,7,7.0,False,False,False,1,2024-08-29,2025-05-08
+3868,3868 Data Center BCEI,2024-08,2026-08,activa,2.0,25.0,10.0,186,24,7.75,True,False,False,1,2024-08-29,2026-07-07
+3869,3869 Puerto Santiago (INDUSTRIAL),2024-09,,activa,1.0,,10.0,26,17,1.53,False,False,False,2,2024-09-12,2026-08-24
+3870,3870 Victor Rae,2024-09,2024-10,cerrada,2.0,2.0,10.0,2,1,2.0,False,False,False,1,2024-09-05,2024-09-24
+3871,3871 16 Bodega Central 1,2024-09,2025-01,cerrada,2.0,5.0,9.0,12,4,3.0,False,False,False,1,2024-09-04,2024-12-02
+3872,3872 SOW157 QCA1 Kitchen Upgrade Construction,2024-09,2025-12,activa,2.0,16.0,9.0,75,15,5.0,True,False,False,1,2024-09-27,2025-11-28
+3873,3873 Román Díaz,2024-09,2025-08,cerrada,2.0,12.0,,25,11,2.27,False,False,False,1,2024-09-11,2025-07-17
+3874,3874 Habilitación USS 796,2024-09,2025-03,cerrada,2.0,7.0,,50,6,8.33,False,False,False,1,2024-09-13,2025-02-20
+3875,3875 Eco Espacio,2024-09,2025-06,cerrada,2.0,10.0,9.0,108,9,12.0,False,False,False,1,2024-09-23,2025-05-26
+3876,3876 Edifico Cora Mayer ( Madera ),2024-09,2024-12,cerrada,2.0,4.0,9.0,4,2,2.0,False,False,False,1,2024-09-25,2024-11-28
+3877,3877 Cabildo,2024-09,2025-11,cerrada,2.0,15.0,,107,14,7.64,False,False,False,1,2024-09-24,2025-10-16
+3878,3878 Casa Longopilla,2024-09,2025-08,cerrada,2.0,12.0,9.0,23,11,2.09,False,False,False,1,2024-09-25,2025-07-02
+3879,3879 Andes Quilicura,2024-09,2026-05,cerrada,2.0,21.0,9.0,142,16,8.88,False,False,False,1,2024-09-27,2026-04-24
+3880,3880 Camino La Pirámide ET 2,2024-09,,activa,1.0,,10.0,56,19,2.95,False,False,False,1,2024-09-30,2026-03-31
+3882,3882 Data Center Odata ST 01,2024-09,2026-03,activa,2.0,19.0,,359,18,19.94,True,False,False,1,2024-09-30,2026-02-27
+3883,3883 PUC Economía y Administración Etapa 4,2024-10,2025-09,cerrada,2.0,12.0,,203,11,18.45,False,False,False,1,2024-10-01,2025-08-21
+3884,"3884 Parque Las Violetas, Frente 1",2024-10,2026-04,activa,2.0,19.0,10.0,36,7,5.14,True,False,False,1,2024-10-02,2026-03-05
+3885,3885 Maco Ventas 1,2024-10,,activa,1.0,,9.0,385,23,16.74,False,False,False,1,2024-10-01,2026-08-28
+3886,3886 Parque Las Violetas Frente 3,2024-10,2025-11,cerrada,2.0,14.0,10.0,11,7,1.57,False,False,False,1,2024-10-02,2025-10-16
+3887,3887 Edificio General Del Canto,2024-10,2025-05,cerrada,2.0,8.0,9.0,131,7,18.71,False,False,False,1,2024-10-01,2025-04-11
+3888,3888 Escuela De Infantería San Bernardo,2024-10,2026-08,activa,2.0,23.0,10.0,106,22,4.82,True,False,False,1,2024-10-01,2026-07-22
+3889,3889 Condominio Manuel Rodriguez,2024-10,2025-04,cerrada,2.0,7.0,,32,6,5.33,False,False,False,1,2024-10-14,2025-03-05
+3890,3890 618- Centro De Distribución CALS,2024-10,2025-07,cerrada,2.0,10.0,,47,9,5.22,False,False,False,1,2024-10-05,2025-06-13
+3891,3891 Root,2024-10,2025-02,cerrada,2.0,5.0,9.0,95,4,23.75,False,False,False,1,2024-10-08,2025-01-22
+3892,3892 Oficinas De Ventas,2024-10,2025-02,cerrada,2.0,5.0,10.0,4,3,1.33,False,False,False,1,2024-10-14,2025-01-23
+3894,3894 Edificio Scala Data Centers Huechuraba,2024-10,2025-10,cerrada,2.0,13.0,,47,12,3.92,False,False,False,1,2024-10-09,2025-09-04
+3895,3895 Puerta Florida,2024-10,2026-03,activa,2.0,18.0,,159,17,9.35,True,False,False,1,2024-10-10,2026-02-24
+3896,3896 301 Torre Apoquindo,2024-10,2025-01,cerrada,2.0,4.0,,25,3,8.33,False,False,False,1,2024-10-16,2024-12-06
+3898,3898 ACHS- La Florida,2024-10,,activa,1.0,,9.0,404,21,19.24,False,False,False,1,2024-10-30,2026-08-25
+3899,3899  Condominio Oscar Castro,2024-10,2025-03,cerrada,2.0,6.0,,38,5,7.6,False,False,False,1,2024-10-23,2025-02-26
+3900,3900 Icalma Torre C,2024-10,2026-03,activa,2.0,18.0,9.0,94,12,7.83,True,False,False,1,2024-10-24,2026-02-27
+3901,3901 Americo Vespucio Torre G,2024-10,,activa,1.0,,9.0,466,23,20.26,False,False,False,2,2024-10-29,2026-08-31
+3902,3902 Parrones de Baquedano Sur,2024-10,2026-07,activa,2.0,22.0,10.0,210,21,10.0,True,False,False,2,2024-10-28,2026-06-15
+3903,3903 Medida De Mitigación Universidad San Sebastian,2024-10,2025-04,cerrada,2.0,7.0,,12,6,2.0,False,False,False,1,2024-10-30,2025-03-03
+3881,3881 Edificio Quinchamalí,2024-11,2026-04,activa,2.0,18.0,,217,15,14.47,True,False,False,1,2024-11-12,2026-03-03
+3897,3897 Manuel Montt,2024-11,2026-06,activa,2.0,20.0,9.0,360,19,18.95,True,False,False,1,2024-11-27,2026-05-08
+3904,3904 Casas La Dehesa,2024-11,2026-03,activa,2.0,17.0,,93,16,5.81,True,False,False,1,2024-11-06,2026-02-04
+3905,3905 Mirador del Sol I- 433,2024-11,,activa,1.0,,9.0,406,22,18.45,False,False,False,1,2024-11-05,2026-08-17
+3906,3906 L 21- D,2024-11,,activa,1.0,,10.0,254,22,11.55,False,False,False,3,2024-11-04,2026-08-27
+3907,3907 Abastible,2024-11,2025-02,cerrada,2.0,4.0,,3,3,1.0,False,False,False,1,2024-11-13,2025-01-10
+3908,3908 Ampliación Hotel Dreams Monticello,2024-11,2025-08,cerrada,2.0,10.0,,121,9,13.44,False,False,False,1,2024-11-07,2025-07-31
+3909,3909 Las Uvas y El Viento 1,2024-11,2026-03,activa,2.0,17.0,,264,16,16.5,True,False,False,1,2024-11-12,2026-02-13
+3910,3910 Las Uvas Y El Viento 2,2024-11,2025-11,cerrada,2.0,13.0,,158,12,13.17,False,False,False,1,2024-11-12,2025-10-30
+3911,3911 Rehabilitación Losa- 1 Buenaventura,2024-11,2025-05,cerrada,2.0,7.0,,11,5,2.2,False,False,False,1,2024-11-12,2025-04-15
+3912,3912 Edificio Froilán Lagos,2024-11,2025-04,cerrada,2.0,6.0,,101,5,20.2,False,False,False,1,2024-11-12,2025-03-04
+3913,3913 Edificio Quinchamalí- Macul,2024-11,,activa,1.0,,9.0,306,22,13.91,False,False,False,1,2024-11-27,2026-08-31
+3914,3914 I - 392 La Araucaria Norte,2024-11,,activa,1.0,,10.0,401,21,19.1,False,False,False,2,2024-11-15,2026-08-31
+3915,3915 Salas De Clases,2024-11,2025-10,cerrada,2.0,12.0,,37,11,3.36,False,False,False,1,2024-11-15,2025-09-11
+3916,3916 ZUC Maipú Plaza Central,2024-11,,activa,1.0,,10.0,418,22,19.0,False,False,False,1,2024-11-15,2026-08-18
+3917,3917 Ampliación Bodega Petrizzio,2024-11,2025-10,cerrada,2.0,12.0,9.0,63,11,5.73,False,False,False,1,2024-11-18,2025-09-15
+3918,3918 Seminario - Irarrázaval,2024-11,,activa,1.0,,9.0,266,18,14.78,True,False,False,1,2024-11-28,2026-04-30
+3919,3919 Pique Pedro De Valdivia,2024-11,,activa,1.0,,9.0,21,16,1.31,False,False,False,1,2024-11-20,2026-08-14
+3920,3920 Estación Matucana,2024-11,,activa,1.0,,9.0,29,22,1.32,False,False,False,1,2024-11-20,2026-08-31
+3921,3921 Edificio Buzeta ll,2024-11,2025-08,cerrada,2.0,10.0,,71,9,7.89,False,False,False,1,2024-11-26,2025-07-04
+3922,3922 206 platina B,2024-11,2026-07,activa,2.0,21.0,10.0,382,20,19.1,True,False,False,1,2024-11-26,2026-06-04
+3923,3923 Demo Modular (INDUSTRIAL),2024-12,,activa,1.0,,9.0,17,14,1.21,False,False,False,2,2024-12-04,2026-07-13
+3924,3924 866 Santiago West Temple Obra Gruesa,2024-12,2025-11,cerrada,2.0,12.0,,76,11,6.91,False,False,False,1,2024-12-16,2025-10-17
+3926,3926 Remodelación De Laboratorio LAAN,2024-12,2025-04,cerrada,2.0,5.0,9.0,6,4,1.5,False,False,False,1,2024-12-05,2025-03-17
+3927,3927 Don José Miguel,2024-12,2025-07,cerrada,2.0,8.0,9.0,61,7,8.71,False,False,False,1,2024-12-09,2025-06-18
+3928,3928 Reposición Esucar,2024-12,2025-11,cerrada,2.0,12.0,,65,11,5.91,False,False,False,1,2024-12-13,2025-10-09
+3929,3929 Remodelación Hotel Le Meridien,2024-12,2025-11,cerrada,2.0,12.0,,84,11,7.64,False,False,False,1,2024-12-12,2025-10-07
+3930,3930 Comisaría La Farfana,2024-12,2025-12,activa,2.0,13.0,10.0,56,12,4.67,True,False,False,1,2024-12-12,2025-11-28
+3931,3931 Lote OCC -142 Oficina Obra,2024-12,2025-02,cerrada,2.0,3.0,,28,2,14.0,False,False,False,1,2024-12-12,2025-01-29
+3933,3933 205 Maestranza ll,2024-12,2026-04,activa,2.0,17.0,,150,16,9.38,True,False,False,1,2024-12-16,2026-03-04
+3934,3934 Parque Del Sur Post Venta ( Briones Luco ),2024-12,2025-08,cerrada,2.0,9.0,9.0,10,6,1.67,False,False,False,1,2024-12-18,2025-07-02
+3935,3935 Condominio Farellón Santa Elena,2024-12,2025-07,cerrada,2.0,8.0,,62,7,8.86,False,False,False,1,2024-12-24,2025-06-17
+3932,3932 Edificio San Andrés,2025-01,2026-05,activa,2.0,17.0,9.0,133,13,10.23,True,False,False,1,2025-01-31,2026-04-06
+3936,3936 Molino La Estampa,2025-01,,activa,1.0,,10.0,136,20,6.8,False,False,False,1,2025-01-08,2026-08-27
+3937,3937 CT0029 Centro De Educación Clínica Avanzada UNAB,2025-01,,activa,1.0,,9.0,417,20,20.85,False,False,False,1,2025-01-13,2026-08-31
+3938,3938 Wayku Etapa ll,2025-01,2026-07,activa,2.0,19.0,9.0,250,18,13.89,True,False,False,1,2025-01-13,2026-06-25
+3939,3939 Doña Sofia,2025-01,2026-01,activa,2.0,13.0,10.0,128,12,10.67,True,False,False,1,2025-01-13,2025-12-04
+3940,3940 Urbano Macul,2025-01,2025-08,cerrada,2.0,8.0,,86,7,12.29,False,False,False,1,2025-01-13,2025-07-04
+3941,3941 Eco Egaña Conexión Metro,2025-01,2025-08,cerrada,2.0,8.0,9.0,80,7,11.43,False,False,False,1,2025-01-20,2025-07-08
+3942,3942 Ampliación PTAS Pomaire,2025-01,2025-12,activa,2.0,12.0,10.0,16,10,1.6,True,False,False,1,2025-01-20,2025-11-18
+3943,3943 CV 8042 Barrio Santa María Oriente Etapa l,2025-01,,activa,1.0,,10.0,82,19,4.32,False,False,False,1,2025-01-20,2026-08-06
+3944,3944 Cerro Negro,2025-01,,activa,1.0,,10.0,393,20,19.65,False,False,False,1,2025-01-20,2026-08-27
+3945,3945 Europa,2025-01,2026-03,activa,2.0,15.0,,84,12,7.0,True,False,False,1,2025-01-22,2026-02-26
+3946,3946 Doña Mariana,2025-01,,activa,1.0,,9.0,202,20,10.1,False,False,False,1,2025-01-23,2026-08-25
+3947,3947 Remodelación Hotel Dreams Monticello ( Baños Capataz ),2025-01,2025-05,cerrada,2.0,5.0,,8,3,2.67,False,False,False,1,2025-01-28,2025-04-11
+3948,3948 Padre Le Paige,2025-01,,activa,1.0,,10.0,26,16,1.62,True,False,False,1,2025-01-29,2026-08-04
+3949,3949 Edificio Meet,2025-01,2025-08,cerrada,2.0,8.0,,31,7,4.43,False,False,False,1,2025-01-24,2025-07-18
+3950,3950 AFE Colina De Operaciones Especiales Lautaro,2025-01,2025-12,activa,2.0,12.0,10.0,25,10,2.5,True,False,False,1,2025-01-28,2025-11-28
+3951,3951 El Peral,2025-01,,activa,1.0,,10.0,59,19,3.11,False,False,False,1,2025-01-28,2026-08-14
+3952,3952 Tabique F- 120 Lider Santa Amalia,2025-01,2025-04,cerrada,2.0,4.0,10.0,4,3,1.33,False,False,False,1,2025-01-28,2025-03-14
+3953,3953 Edificio Clan,2025-02,2025-07,cerrada,2.0,6.0,9.0,53,5,10.6,False,False,False,1,2025-02-01,2025-06-13
+3954,3954 Tavelli,2025-02,,activa,1.0,,9.0,175,11,15.91,True,False,False,1,2025-02-05,2025-12-30
+3955,3955 Cerro Negro Casas,2025-02,,activa,1.0,,10.0,184,17,10.82,False,False,False,1,2025-02-05,2026-08-27
+3956,3956 La Hacienda T 149,2025-02,2026-01,activa,2.0,12.0,10.0,69,11,6.27,True,False,False,1,2025-02-03,2025-12-16
+3957,3957 Alto Lo Caña ( PV ),2025-02,,activa,1.0,,10.0,17,14,1.21,False,False,False,1,2025-02-05,2026-08-26
+3958,3958 Lote 31 Puente Alto,2025-02,,activa,1.0,,10.0,450,18,25.0,False,False,False,1,2025-02-05,2026-07-31
+3959,3959 Taihuen,2025-02,,activa,1.0,,9.0,243,18,13.5,True,False,False,1,2025-02-07,2026-07-14
+3960,3960 Lira II,2025-02,2026-07,activa,2.0,18.0,9.0,319,16,19.94,True,False,False,1,2025-02-06,2026-06-03
+3961,3961 Edificio Citizen Los Militares,2025-02,,cerrada,1.0,,9.0,57,9,6.33,True,False,False,1,2025-02-07,2026-08-31
+3962,3962 Lira l,2025-02,,cerrada,1.0,,10.0,81,8,10.12,True,False,False,1,2025-02-14,2026-07-29
+3963,3963 Pórtico Quinchamalí,2025-02,2025-05,cerrada,2.0,4.0,,9,3,3.0,False,False,False,1,2025-02-19,2025-04-17
+3964,3964 Alvi Quinta Normal,2025-02,2025-08,cerrada,2.0,7.0,,35,6,5.83,False,False,False,1,2025-02-19,2025-07-08
+3965,3965 Altos del Valle,2025-02,,activa,1.0,,10.0,188,19,9.89,False,False,False,1,2025-02-21,2026-08-27
+3966,3966 Edificio Pedro De La Barra,2025-02,2025-10,cerrada,2.0,9.0,,89,8,11.12,False,False,False,1,2025-02-26,2025-09-05
+3967,3967 Mirador Del Sol I-440-DS Casas,2025-03,2025-12,activa,2.0,10.0,,127,9,14.11,True,False,False,1,2025-03-03,2025-11-17
+3968,3968 Barón De Juras Reales,2025-03,,activa,1.0,,9.0,268,16,16.75,True,False,False,1,2025-03-04,2026-08-07
+3969,3969 Post Venta Francisco De Villagra,2025-03,2025-12,activa,2.0,10.0,9.0,6,4,1.5,True,False,False,1,2025-03-07,2025-11-25
+3970,3970 Alonso De Ercilla,2025-03,2026-06,activa,2.0,16.0,9.0,144,15,9.6,True,False,False,1,2025-03-06,2026-05-29
+3971,3971 Alderete Cook 2 ( Los Cactus ),2025-03,2025-07,cerrada,2.0,5.0,,10,4,2.5,False,False,False,1,2025-03-07,2025-06-10
+3972,3972 Sala Eléctrica MT ( DATA ),2025-03,2025-08,cerrada,2.0,6.0,,19,5,3.8,False,False,False,1,2025-03-12,2025-07-18
+3973,3973 José Venturelli,2025-03,,activa,1.0,,10.0,317,18,17.61,False,False,False,1,2025-03-19,2026-08-31
+3974,3974 Valle Oriente Huechuraba,2025-03,,activa,1.0,,10.0,177,10,17.7,True,False,False,1,2025-03-19,2025-12-13
+3975,3975 865 Santiago West Temple,2025-03,,activa,1.0,,9.0,295,18,16.39,False,False,False,1,2025-03-25,2026-08-31
+3976,3976 Edificio Consistorial El Bosque,2025-03,2026-07,activa,2.0,17.0,10.0,87,16,5.44,True,False,False,1,2025-03-25,2026-06-04
+3977,3977 Edificio Movem,2025-03,2026-07,cerrada,2.0,17.0,9.0,82,8,10.25,False,False,False,1,2025-03-31,2026-06-01
+3978,3978 Mariscal 3,2025-03,,activa,1.0,,10.0,332,18,18.44,False,False,False,1,2025-03-27,2026-08-31
+3979,3979 Santa Rosa,2025-03,2025-07,cerrada,2.0,5.0,9.0,41,4,10.25,False,False,False,1,2025-03-31,2025-06-30
+3980,3980 0593 Nave 2 Envasados NPR CCU,2025-04,2026-04,activa,2.0,13.0,,71,12,5.92,True,False,False,1,2025-04-01,2026-03-09
+3981,3981 Lyon Bilbao,2025-04,,retiro momt,1.0,,9.0,239,17,14.06,True,False,False,1,2025-04-01,2026-08-26
+3982,3982 Jorge Edwards Valdés,2025-04,,activa,1.0,,10.0,263,16,16.44,False,False,False,1,2025-04-22,2026-08-31
+3983,3983 Aguas Claras,2025-04,,activa,1.0,,10.0,157,17,9.24,False,False,False,1,2025-04-09,2026-08-26
+3984,3984 Morandé Norte V 11,2025-04,2025-11,cerrada,2.0,8.0,,112,7,16.0,False,False,False,1,2025-04-14,2025-10-28
+3985,3985 207 Hacienda Los Olivos,2025-04,,activa,1.0,,10.0,171,17,10.06,False,False,False,1,2025-04-25,2026-08-20
+3986,3986 Apoquindo Los Militares,2025-04,,activa,1.0,,9.0,403,13,31.0,False,False,False,1,2025-04-16,2026-04-16
+3987,3987 CD Huechuraba 2,2025-04,2025-07,cerrada,2.0,4.0,,8,3,2.67,False,False,False,1,2025-04-16,2025-06-10
+3988,3988 Mejoramiento Villa Deportiva Complejo Lo Arrieta,2025-04,2025-11,cerrada,2.0,8.0,9.0,17,7,2.43,False,False,False,1,2025-04-25,2025-10-20
+3989,3989 Proyecto Facultad Arquitectura Por FS,2025-04,2026-06,cerrada,2.0,15.0,10.0,26,13,2.0,False,False,False,1,2025-04-25,2026-05-06
+3990,3990 Edificio Buzeta lll,2025-04,2025-11,cerrada,2.0,8.0,,38,7,5.43,False,False,False,1,2025-04-29,2025-10-03
+3991,"3991 Vientos Sur F3, Cerrillos",2025-04,,activa,1.0,,9.0,590,17,34.71,False,False,False,1,2025-04-29,2026-08-28
+3992,3992 San Nicolas 1,2025-05,2025-06,cerrada,2.0,2.0,,2,1,2.0,False,False,False,1,2025-05-13,2025-05-14
+3993,3993 Centro De Distribución Quilicura,2025-05,2025-09,cerrada,2.0,5.0,10.0,15,4,3.75,False,False,False,1,2025-05-06,2025-08-29
+3994,3994 Viña Carmen Buin,2025-05,,activa,1.0,,10.0,62,13,4.77,False,False,False,1,2025-05-13,2026-08-26
+3995,3995 0596 Lider La Farfana,2025-05,2025-11,cerrada,2.0,7.0,,64,6,10.67,False,False,False,1,2025-05-09,2025-10-13
+3996,3996 Pintor Alfredo Helsby,2025-05,,activa,1.0,,10.0,37,9,4.11,False,False,False,1,2025-05-15,2026-08-20
+3997,3997 Conjunto Habitacional La Travesia,2025-05,,activa,1.0,,10.0,548,16,34.25,False,False,False,1,2025-05-14,2026-08-31
+3998,3998 Alto Ciruelos,2025-05,2026-06,activa,2.0,14.0,10.0,172,13,13.23,True,False,False,1,2025-05-27,2026-05-29
+3999,"3999 Urb. Portal Del Alba Et 1,2 y 3",2025-05,2026-05,activa,2.0,13.0,10.0,14,9,1.56,True,False,False,1,2025-05-29,2026-04-29
+4000,4000  Departamental,2025-06,2025-08,cerrada,2.0,3.0,,26,2,13.0,False,False,False,2,2025-06-10,2025-07-28
+4001,4001 Cal y Canto Principal,2025-06,,activa,1.0,,9.0,31,13,2.38,False,False,False,1,2025-06-10,2026-08-24
+4002,4002 Piemonte,2025-06,2026-04,activa,2.0,11.0,,110,10,11.0,True,False,False,1,2025-06-13,2026-03-18
+4003,4003 Pique Estación Cumming,2025-06,,activa,1.0,,9.0,9,8,1.12,False,False,False,1,2025-06-12,2026-06-23
+4004,4004 Edificio Augusto Biaut 0900,2025-06,,activa,1.0,,9.0,166,15,11.07,False,False,False,1,2025-06-13,2026-08-28
+4005,4005 Las Verbenas,2025-06,,activa,1.0,,9.0,259,15,17.27,False,False,False,1,2025-06-19,2026-08-28
+4006,4006 Pique PC-09 Parque Forestal,2025-06,,activa,1.0,,9.0,6,6,1.0,False,False,False,1,2025-06-23,2026-08-10
+4008,4008 Parque Los Nogales Etapa ll,2025-06,,activa,1.0,,10.0,166,15,11.07,False,False,False,1,2025-06-27,2026-08-29
+4009,4009 Unimarc Las Condes,2025-06,2026-01,activa,2.0,8.0,,39,7,5.57,True,False,False,1,2025-06-27,2025-12-12
+4010,4010 DS 19 Gran Avenida Etapa 1 ( Torre C-D ),2025-06,,activa,1.0,,9.0,315,15,21.0,False,False,False,1,2025-06-26,2026-08-04
+4007,4007 Bodega Comachi,2025-07,2026-02,activa,2.0,8.0,10.0,22,7,3.14,True,False,False,1,2025-07-04,2026-01-07
+4011,4011 Lote 33 C,2025-07,,activa,1.0,,10.0,213,14,15.21,False,False,False,1,2025-07-09,2026-08-31
+4012,4012 Abastible Peñalolén,2025-07,2025-10,cerrada,2.0,4.0,10.0,6,3,2.0,False,False,False,1,2025-07-11,2025-09-03
+4013,4013 El Ulmo,2025-07,,activa,1.0,,10.0,223,14,15.93,False,False,False,1,2025-07-21,2026-08-31
+4014,4014 Jardín Infantil Cepillín,2025-07,2026-08,activa,2.0,14.0,9.0,61,13,4.69,True,False,False,1,2025-07-17,2026-07-07
+4015,4015 Post Venta Frambuesal La Reserva,2025-07,,activa,1.0,,9.0,7,7,1.0,False,False,False,1,2025-07-17,2026-07-13
+4016,4016 Walker Martinez T- A,2025-07,,activa,1.0,,9.0,177,14,12.64,False,False,False,1,2025-07-17,2026-08-28
+4017,4017 La Castellana,2025-07,,activa,1.0,,9.0,366,14,26.14,False,False,False,1,2025-07-17,2026-08-31
+4019,4019 San Pablo,2025-07,2026-01,activa,2.0,7.0,9.0,47,6,7.83,True,False,False,1,2025-07-26,2025-12-23
+4020,4020 Condominio Los Nogales,2025-08,,activa,1.0,,9.0,196,13,15.08,False,False,False,1,2025-08-05,2026-08-31
+4021,4021 Pique PC7- Libertad,2025-08,,activa,1.0,,9.0,12,10,1.2,False,False,False,1,2025-08-19,2026-07-24
+4022,4022 SSCLHB 02 ( SCALA HUECHURABA 2,2025-08,2025-12,activa,2.0,5.0,,5,4,1.25,True,False,False,1,2025-08-11,2025-11-24
+4023,4023 Casa De Paine,2025-08,2025-10,cerrada,2.0,3.0,,3,2,1.5,False,False,False,1,2025-08-11,2025-09-03
+4024,4024 Post Venta,2025-08,,activa,1.0,,10.0,47,13,3.62,False,False,False,1,2025-08-11,2026-08-24
+4025,4025 I 434 Entre Parque V,2025-08,2026-08,activa,2.0,13.0,10.0,125,12,10.42,True,False,False,1,2025-08-11,2026-07-20
+4026,4026 Edificio Calafquén,2025-08,2025-11,cerrada,2.0,4.0,,13,3,4.33,False,False,False,1,2025-08-11,2025-10-13
+4027,4027 Bodega Las Acacias,2025-08,2025-10,cerrada,2.0,3.0,,8,2,4.0,False,False,False,1,2025-08-12,2025-09-30
+4028,4028 Oficinas y Bodegas Global Logistic Lampa,2025-08,2026-05,activa,2.0,10.0,10.0,25,8,3.12,True,False,False,1,2025-08-22,2026-04-17
+4029,4029 Reposición y Sostenimiento del Edificio Académico De La Academia De Guerra Aérea,2025-08,,activa,1.0,,10.0,44,13,3.38,False,False,False,1,2025-08-25,2026-08-25
+4030,4030 Strip Center Pajarito,2025-08,2026-05,activa,2.0,10.0,10.0,64,9,7.11,True,False,False,1,2025-08-21,2026-04-14
+4031,4031 Sargento Menadier,2025-08,2025-10,cerrada,2.0,3.0,,20,2,10.0,False,False,False,1,2025-08-20,2025-09-26
+4032,4032 Lider Santa Amalia,2025-08,2026-05,activa,2.0,10.0,10.0,222,9,24.67,True,False,False,1,2025-08-26,2026-04-29
+4033,4033 IH 52 Plaza Alcanzable,2025-08,,activa,1.0,,10.0,220,12,18.33,True,False,False,1,2025-08-27,2026-07-07
+4034,4034 Aciares Chicureo,2025-08,2025-11,retiro momt,2.0,4.0,9.0,15,3,5.0,True,False,False,1,2025-08-28,2025-10-28
+4036,4036 330 Casas Santa Sofia,2025-08,2026-07,activa,2.0,12.0,9.0,118,11,10.73,True,False,False,1,2025-08-29,2026-06-04
+4037,4037 Torre C Huechuraba,2025-08,2025-11,cerrada,2.0,4.0,,10,3,3.33,False,False,False,1,2025-08-28,2025-10-06
+4039,4039 Data Center Ciron Quilicura,2025-08,2025-12,activa,2.0,5.0,,19,4,4.75,True,False,False,1,2025-08-29,2025-11-28
+4035,4035  Parcela 4 Etapa 1- 2,2025-09,,activa,1.0,,10.0,151,12,12.58,False,False,False,1,2025-09-01,2026-08-27
+4038,4038 319 Edificio Uno 2025,2025-09,,activa,1.0,,9.0,172,12,14.33,False,False,False,1,2025-09-02,2026-08-31
+4040,4040 Condominio Los Troncos,2025-09,2026-08,activa,2.0,12.0,9.0,74,11,6.73,True,False,False,1,2025-09-09,2026-07-17
+4041,4041 Unimarc La Cruz,2025-09,2026-02,activa,2.0,6.0,,20,5,4.0,True,False,False,1,2025-09-08,2026-01-07
+4042,4042 Edificio VM3,2025-09,,activa,1.0,,9.0,16,5,3.2,True,False,False,1,2025-09-08,2026-01-29
+4043,4043 Los Halcones,2025-09,,activa,1.0,,9.0,92,12,7.67,True,False,False,1,2025-09-10,2026-08-17
+4044,4044 Ampliación y Normalización De Enfermería y Kinesiología,2025-09,2026-06,activa,2.0,10.0,10.0,30,9,3.33,True,False,False,1,2025-09-10,2026-05-27
+4045,4045 Edificio Jaraquemada,2025-09,2026-04,activa,2.0,8.0,,47,7,6.71,True,False,False,1,2025-09-15,2026-03-06
+4046,4046 Remodelación y Ampliación Espacio Urbano La Laguna Chicureo,2025-09,,activa,1.0,,10.0,345,12,28.75,False,False,False,1,2025-09-24,2026-08-28
+4047,4047 Parque Del Sur,2025-09,,activa,1.0,,9.0,11,10,1.1,False,False,False,1,2025-09-29,2026-08-24
+4048,4048 Francisco Zelada,2025-09,,activa,1.0,,9.0,193,12,16.08,False,False,False,1,2025-09-25,2026-08-31
+4049,4049 El Remanso De Chicureo,2025-10,,activa,1.0,,10.0,12,7,1.71,False,False,False,1,2025-10-01,2026-08-11
+4050,4050 Gastón Despouy,2025-10,,activa,1.0,,9.0,174,11,15.82,False,False,False,1,2025-10-01,2026-08-31
+4051,4051 Bilbao,2025-10,,activa,1.0,,9.0,223,11,20.27,False,False,False,1,2025-10-06,2026-08-31
+4052,4052 Under Pizza Puente Alto,2025-10,2025-11,cerrada,2.0,2.0,,6,1,6.0,False,False,False,1,2025-10-03,2025-10-16
+4053,4053 Samex- Quilicura,2025-10,2025-12,activa,2.0,3.0,,10,2,5.0,True,False,False,1,2025-10-07,2025-11-03
+4054,4054 Sala De Ventas Ciudad Del Sol,2025-10,,activa,1.0,,10.0,19,10,1.9,False,False,False,1,2025-10-08,2026-08-10
+4055,"4055 BOE Colina, Brigada De Operaciones Especiales Lautaro",2025-10,2026-04,activa,2.0,7.0,10.0,22,3,7.33,True,False,False,1,2025-10-09,2026-03-13
+4056,4056 Escritor Salvador Reyes T-157,2025-10,,activa,1.0,,10.0,83,11,7.55,False,False,False,1,2025-10-09,2026-08-31
+4057,4057 Yungay 2500 obra 135,2025-10,,activa,1.0,,9.0,163,11,14.82,False,False,False,1,2025-10-03,2026-08-28
+4058,4058 Remodelación Piloto Estancia Liray,2025-10,,activa,1.0,,10.0,51,11,4.64,True,False,False,1,2025-10-13,2026-08-13
+4059,4059 VGV General Velasquez,2025-10,2025-11,cerrada,2.0,2.0,,5,1,5.0,False,False,False,1,2025-10-13,2025-10-30
+4060,4060 Universidad de los Andes Norte,2025-10,,activa,1.0,,9.0,52,11,4.73,True,False,False,1,2025-10-15,2026-08-27
+4061,4061 4PS,2025-10,2025-12,activa,2.0,3.0,,11,2,5.5,True,False,False,1,2025-10-15,2025-11-24
+4062,4062 Los Abedules De Buin,2025-10,2026-06,activa,2.0,9.0,9.0,35,8,4.38,True,False,False,1,2025-10-27,2026-05-15
+4063,4063 Centro De Distribución Crucero Peralillo,2025-10,,activa,1.0,,10.0,171,11,15.55,False,False,False,1,2025-10-20,2026-08-31
+4065,4065 Ampliación CD Lo Aguirre,2025-10,,activa,1.0,,10.0,154,11,14.0,False,False,False,1,2025-10-22,2026-08-31
+4066,4066 Hacienda Del Maipo,2025-10,,activa,1.0,,10.0,16,6,2.67,False,False,False,1,2025-10-24,2026-07-08
+4067,4067 Ampliación Linea De Agua Ptas Talagante,2025-10,2026-07,activa,2.0,10.0,10.0,19,9,2.11,True,False,False,1,2025-10-24,2026-06-11
+4068,4068 Jardín ELM El Bosque,2025-10,2026-02,activa,2.0,5.0,,16,4,4.0,True,False,False,1,2025-10-23,2026-01-21
+4069,4069 Unilever,2025-10,2026-07,activa,2.0,10.0,10.0,20,9,2.22,True,False,False,1,2025-10-30,2026-06-02
+4070,4070 Conjunto Residencial Poeta Pedro Prado,2025-10,,activa,1.0,,9.0,129,11,11.73,False,False,False,1,2025-10-28,2026-08-31
+4071,4071 Laboratorio Calidad Mathiesen,2025-10,2026-02,activa,2.0,5.0,,7,4,1.75,True,False,False,1,2025-10-29,2026-01-14
+4018,4018 Doctor Lucas Sierra,2025-11,,cerrada,1.0,,9.0,151,10,15.1,True,False,False,1,2025-11-04,2026-08-31
+4064,4064 Vicuña Mackenna San Joaquin,2025-11,,nueva,1.0,,9.0,42,7,6.0,True,False,False,1,2025-11-25,2026-08-21
+4072,4072 Pabellones Colina,2025-11,,activa,1.0,,10.0,92,10,9.2,False,False,False,1,2025-11-05,2026-08-25
+4073,"4073 Valles De Rengo lll, Etapa 2",2025-11,2026-06,activa,2.0,8.0,10.0,18,7,2.57,True,False,False,1,2025-11-07,2026-05-28
+4074,4074 Parque Los Encinos Etapa lll y IV,2025-11,,activa,1.0,,10.0,36,8,4.5,False,False,False,1,2025-11-12,2026-08-31
+4075,4075 0601 Clínica Los Andes,2025-11,,activa,1.0,,10.0,36,10,3.6,False,False,False,1,2025-11-13,2026-08-27
+4076,4076 Edificio GA 2944,2025-11,,activa,1.0,,9.0,107,10,10.7,False,False,False,1,2025-11-17,2026-08-28
+4077,4077 Conservación Palacio La Moneda 2025 Etapa 1,2025-11,,activa,1.0,,9.0,70,10,7.0,False,False,False,1,2025-11-21,2026-08-26
+4078,4078 Avenida España,2025-11,,activa,1.0,,9.0,32,6,5.33,True,False,False,1,2025-11-25,2026-06-25
+4079,4079 Edificio Cuvée 2,2025-12,,,1.0,,9.0,178,9,19.78,True,False,False,1,2025-12-02,2026-08-31
+4080,4080 Edificio Multifamily- Torre Kennedy Oriente,2025-12,,,1.0,,9.0,226,9,25.11,True,False,False,1,2025-12-03,2026-08-31
+4081,4081 Oxiquim,2025-12,,,1.0,,9.0,40,9,4.44,True,False,False,1,2025-12-05,2026-08-11
+4082,4082 KFC Príncipe De Gales,2025-12,2026-01,,2.0,2.0,9.0,5,1,5.0,True,False,False,1,2025-12-04,2025-12-26
+4083,4083 Patios De Berlioz,2025-12,2026-03,,2.0,4.0,9.0,68,3,22.67,True,False,False,1,2025-12-05,2026-02-26
+4084,4084 Plaza El Espino,2025-12,2026-08,,2.0,9.0,9.0,54,8,6.75,True,False,False,1,2025-12-05,2026-07-28
+4086,4086 Ampliación De Bioterio CCHEN,2025-12,2026-03,,2.0,4.0,10.0,2,2,1.0,True,False,False,1,2025-12-11,2026-02-06
+4087,4087 Remodelación Mall Plaza Norte ( ubicación Sector Paisajismo),2025-12,2026-07,,2.0,8.0,10.0,54,7,7.71,True,False,False,1,2025-12-11,2026-06-10
+4088,4088 Remodelación Mall Plaza Norte ( ubicación sector mall ),2025-12,,,1.0,,9.0,124,4,31.0,True,False,False,1,2025-12-11,2026-03-20
+4089,4089 Centro Comercial Parque Quilicura,2025-12,,,1.0,,10.0,59,9,6.56,True,False,False,1,2025-12-16,2026-08-28
+4090,4090 Juan Pablo II,2025-12,,,1.0,,10.0,22,8,2.75,True,False,False,1,2025-12-19,2026-08-31
+4092,"4092 Taller Bulnes, Bodega Central",2025-12,,,1.0,,9.0,10,7,1.43,True,False,False,1,2025-12-30,2026-08-10
+4093,4093 179 Vive Quinta,2026-01,,,1.0,,9.0,36,7,5.14,True,False,False,1,2026-01-05,2026-07-09
+4094,4094 Portal Concha y TORO,2026-01,2026-02,,2.0,2.0,,2,1,2.0,True,False,False,1,2026-01-06,2026-01-12
+4095,4095 Edificio Bellavista ll,2026-01,,,1.0,,9.0,131,8,16.38,True,False,False,1,2026-01-08,2026-08-31
+4096,4096 Edificio San Francisco,2026-01,,,1.0,,9.0,48,6,8.0,True,False,False,1,2026-01-09,2026-06-09
+4097,4097 C Veterinaria PUC,2026-01,,,1.0,,10.0,58,8,7.25,True,False,False,1,2026-01-13,2026-08-31
+4098,4098 Los Naranjos ( Edificios ),2026-01,,,1.0,,10.0,71,8,8.88,True,False,False,1,2026-01-14,2026-08-31
+4099,4099 Remodelación Colegios Protectora De La Infancia,2026-01,2026-07,,2.0,7.0,10.0,17,5,3.4,True,False,False,1,2026-01-13,2026-06-01
+4100,4100 Los Naranjos ( Casas ),2026-01,,,1.0,,10.0,72,8,9.0,True,False,False,1,2026-01-14,2026-08-31
+4101,4101 Tangata Manu,2026-01,,,1.0,,10.0,79,8,9.88,True,False,False,1,2026-01-15,2026-08-31
+4102,4102 Portal De Los Artesanos l,2026-01,,,1.0,,10.0,146,8,18.25,True,False,False,1,2026-01-15,2026-08-31
+4103,4103 0599 LIDER QUILIN,2026-01,,,1.0,,10.0,74,8,9.25,True,False,False,1,2026-01-21,2026-08-27
+4104,4104 Ciudad Matta,2026-01,,,1.0,,9.0,83,8,10.38,True,False,False,1,2026-01-26,2026-08-27
+4105,4105 Habilitación Jumbo Apoquindo,2026-01,,,1.0,,10.0,50,6,8.33,True,False,False,1,2026-01-30,2026-06-12
+4106,4106 Habilitación Oficinas Innomotics Galpón C,2026-01,2026-05,,2.0,5.0,10.0,10,4,2.5,True,False,False,1,2026-01-21,2026-04-28
+4107,4107 Remodelación CD Lo Aguirre SMU,2026-01,,,1.0,,10.0,37,8,4.62,True,False,False,1,2026-01-27,2026-08-31
+4108,4108 Central De Alimentación CH SJM,2026-01,,,1.0,,10.0,9,7,1.29,True,False,False,1,2026-01-26,2026-08-07
+4109,4109 0602 Ecoparkcenter Quilicura,2026-01,,,1.0,,10.0,59,8,7.38,True,False,False,1,2026-01-26,2026-08-31
+4110,4110 Las Acacías I-387,2026-01,2026-06,,2.0,6.0,9.0,27,5,5.4,True,False,False,1,2026-01-23,2026-05-15
+4111,4111 Edificio Only Las Pircas,2026-01,2026-04,,2.0,4.0,,19,3,6.33,True,False,False,1,2026-01-27,2026-03-31
+4112,4112 1571 Metrópolis Independencia,2026-01,,,1.0,,9.0,163,8,20.38,True,False,False,1,2026-01-28,2026-08-31
+4113,4113 Fundación Instituto Profesional Duoc,2026-01,2026-05,,2.0,5.0,9.0,8,4,2.0,True,False,False,1,2026-01-29,2026-04-27
+4114,4114 Acolchados,2026-01,2026-03,,2.0,3.0,,6,2,3.0,True,False,False,1,2026-01-28,2026-02-10
+4115,4115 Mirador Los Trapenses Lote 8,2026-02,,,1.0,,10.0,20,7,2.86,True,False,False,1,2026-02-04,2026-08-25
+4116,4116 TEP Serviu Data 61,2026-02,2026-07,,2.0,6.0,10.0,12,5,2.4,True,False,False,1,2026-02-02,2026-06-16
+4117,4117 CENTRO RADIOMEDICINA,2026-02,2026-07,,2.0,6.0,10.0,11,5,2.2,True,False,False,1,2026-02-04,2026-06-10
+4118,4118 Ciudad Siete,2026-02,,,1.0,,9.0,35,6,5.83,True,False,False,1,2026-02-04,2026-07-09
+4119,4119 I- 439 Viñedos III,2026-02,,,1.0,,10.0,57,7,8.14,True,False,False,1,2026-02-04,2026-08-31
+4120,4120 Sofia Carmona,2026-02,,,1.0,,9.0,72,7,10.29,True,False,False,1,2026-02-05,2026-08-31
+4121,4121 Centro Comercial Fontova,2026-02,,,1.0,,10.0,48,7,6.86,True,False,False,1,2026-02-17,2026-08-28
+4122,4122 Edificio Mirador El Tranque,2026-02,,,1.0,,10.0,43,7,6.14,True,False,False,1,2026-02-17,2026-08-27
+4123,4123 Bucarest,2026-02,2026-03,,2.0,2.0,,3,1,3.0,True,False,False,1,2026-02-17,2026-02-19
+4125,"4125 Viento Norte F2, Cerrillos",2026-02,,,1.0,,10.0,81,7,11.57,True,False,False,1,2026-02-26,2026-08-31
+4124,4124 Taller Liray,2026-03,,,1.0,,10.0,35,6,5.83,True,False,False,1,2026-03-16,2026-08-31
+4126,4126 Construcción Red Nacional Laboratorios Ambientales Santiago,2026-03,,,1.0,,9.0,60,6,10.0,True,False,False,1,2026-03-10,2026-08-31
+4127,4127 Edificio Borde Poniente Unab Casona,2026-03,,,1.0,,9.0,54,6,9.0,True,False,False,1,2026-03-06,2026-08-31
+4128,4128 Terrazas Del Bicentenario,2026-03,,,1.0,,9.0,58,6,9.67,True,False,False,1,2026-03-05,2026-08-31
+4129,4129 Condominio Alto Los Nogales,2026-03,,,1.0,,10.0,33,6,5.5,True,False,False,1,2026-03-06,2026-08-27
+4130,4130 Reconversión Adidas Mall Arauco El Bosque,2026-03,,,1.0,,10.0,32,6,5.33,True,False,False,1,2026-03-04,2026-08-10
+4131,4131 Construcción Centro Gam 2Etapa,2026-03,2026-06,,2.0,4.0,9.0,17,3,5.67,True,False,False,1,2026-03-12,2026-05-07
+4132,4132 Mármol Chile,2026-03,,,1.0,,9.0,8,5,1.6,True,False,False,1,2026-03-10,2026-08-25
+4133,4133 Magnolia,2026-03,,,1.0,,10.0,80,6,13.33,True,False,False,1,2026-03-16,2026-08-27
+4134,4134 Alonso De Ercilla Torre A,2026-03,,,1.0,,9.0,23,6,3.83,True,False,False,1,2026-03-19,2026-08-31
+4135,4135 Post Venta,2026-03,,,1.0,,10.0,6,6,1.0,True,False,False,1,2026-03-23,2026-08-11
+4137,4137 Casas Warm,2026-03,,,1.0,,9.0,15,6,2.5,True,False,False,1,2026-03-26,2026-08-28
+4142,"4142 Cerrillos Urbanización F2, F3",2026-04,,,1.0,,10.0,21,5,4.2,True,False,False,1,2026-04-09,2026-08-21
+4143,4143 Outlet Arauco Buin 0603,2026-04,,,1.0,,10.0,31,5,6.2,True,False,False,1,2026-04-07,2026-08-27
+4144,"4144 Cesfam Pahuilmo, Mallarauco",2026-04,,,1.0,,10.0,16,5,3.2,True,False,False,1,2026-04-10,2026-08-26
+4145,4145 Mejoramiento Integral Paseo Las Palmas,2026-04,2026-06,,2.0,3.0,9.0,16,2,8.0,True,False,False,1,2026-04-21,2026-05-25
+4146,4146 Nueva Sala UMCE,2026-04,2026-07,,2.0,4.0,10.0,5,3,1.67,True,False,False,1,2026-04-14,2026-06-12
+4147,4147 Remodelación Laboratorio Synthon,2026-04,,,1.0,,10.0,14,5,2.8,True,False,False,1,2026-04-20,2026-08-18
+4148,4148 Cesfam Haydée López,2026-04,,,1.0,,10.0,30,5,6.0,True,False,False,1,2026-04-15,2026-08-26
+4149,4149 Edificio Teresa Vial,2026-04,,,1.0,,9.0,54,5,10.8,True,False,False,1,2026-04-20,2026-08-28
+4151,4151 Fabrica De Muebles Carrán,2026-04,2026-08,,2.0,5.0,10.0,8,4,2.0,True,False,False,1,2026-04-21,2026-07-29
+4152,4152 Remodelación Marriott,2026-04,2026-07,,2.0,4.0,10.0,20,3,6.67,True,False,False,1,2026-04-02,2026-06-26
+4153,4153 Remodelación Lider Express Piedra Roja,2026-04,2026-07,,2.0,4.0,10.0,10,3,3.33,True,False,False,1,2026-04-23,2026-06-18
+4154,4154 Quinta Linderos,2026-05,,,1.0,,9.0,1,1,1.0,True,False,False,1,2026-05-05,2026-05-05
+4155,4155 Club Marte,2026-05,,,1.0,,10.0,16,4,4.0,True,False,False,1,2026-05-05,2026-08-31
+4156,4156 Reconversión Ripley Mall Los Dominicos,2026-05,,,1.0,,10.0,94,4,23.5,True,False,False,1,2026-05-07,2026-08-29
+4157,4157 Cal 1 De Pudahuel,2026-05,,,1.0,,10.0,29,4,7.25,True,False,False,1,2026-05-07,2026-08-28
+4158,4158 Fosfoquim,2026-05,2026-07,,2.0,3.0,10.0,4,2,2.0,True,False,False,1,2026-05-06,2026-06-09
+4159,4159 Los Jardines Huechuraba,2026-05,,,1.0,,9.0,27,4,6.75,True,False,False,1,2026-05-07,2026-08-28
+4160,4160 Paso El Roble,2026-05,,,1.0,,9.0,77,4,19.25,True,False,False,1,2026-05-14,2026-08-28
+4161,4161 Cruz Del Sur,2026-05,,,1.0,,10.0,4,1,4.0,True,False,False,1,2026-05-13,2026-05-16
+4162,4162 Edificio Coipué,2026-05,,,1.0,,9.0,44,4,11.0,True,False,False,1,2026-05-13,2026-08-31
+4163,4163 VIDA NUEVA 1 LA GRANJA,2026-05,,,1.0,,9.0,17,4,4.25,True,False,False,1,2026-05-15,2026-08-27
+4164,4164 Post Venta Padre Hurtado,2026-05,,,1.0,,10.0,1,1,1.0,True,False,False,1,2026-05-15,2026-05-15
+4165,4165 Cal 2 Pudahuel,2026-05,,,1.0,,10.0,34,4,8.5,True,False,False,1,2026-05-27,2026-08-31
+4166,4166  Colegio Los Andes,2026-05,,,1.0,,9.0,20,4,5.0,True,False,False,1,2026-05-28,2026-08-27
+4150,4150 Los Arándanos,2026-06,,,1.0,,10.0,10,3,3.33,True,False,False,1,2026-06-17,2026-08-28
+4167,4167 1035 Edificio Altamura,2026-06,,,1.0,,10.0,14,3,4.67,True,False,False,1,2026-06-02,2026-08-27
+4168,4168 IV 94 Troncal San Francisco,2026-06,,,1.0,,10.0,8,3,2.67,True,False,False,1,2026-06-09,2026-08-24
+4169,4169 Retrofit PDI,2026-06,,,1.0,,9.0,24,3,8.0,True,False,False,1,2026-06-09,2026-08-31
+4170,4170 Remodelación Oficina De Producción,2026-06,2026-08,,2.0,3.0,10.0,3,2,1.5,True,False,False,1,2026-06-09,2026-07-28
+4171,4171 212 La Platina C,2026-06,,,1.0,,10.0,9,3,3.0,True,False,False,1,2026-06-10,2026-08-24
+4172,4172 Doctor Garcia Guerrero,2026-06,,,1.0,,10.0,21,3,7.0,True,False,False,1,2026-06-18,2026-08-28
+4174,4174 Enex Pudahuel,2026-06,,,1.0,,10.0,5,3,1.67,True,False,False,1,2026-06-19,2026-08-27
+4175,4175 153- Townhouse,2026-06,,,1.0,,10.0,18,3,6.0,True,False,False,1,2026-06-18,2026-08-31
+4176,4176 Santuario Bellavista,2026-06,,,1.0,,9.0,10,3,3.33,True,False,False,1,2026-06-18,2026-08-25
+4177,4177 Neohaus La Dehesa,2026-06,,,1.0,,10.0,5,1,5.0,True,False,False,1,2026-06-19,2026-06-25
+4178,4178 Planta Mallapack,2026-06,,,1.0,,10.0,4,2,2.0,True,False,False,1,2026-06-19,2026-07-30
+4179,4179 Demolición De Patio Comida PAK,2026-07,,,1.0,,9.0,253,2,126.5,True,False,False,1,2026-07-03,2026-08-31
+4180,4180 Remodelación UBO,2026-07,,,1.0,,9.0,16,2,8.0,True,False,False,1,2026-07-09,2026-08-27
+4181,4181  0600 Hogar Jesus Resucitado,2026-07,,,1.0,,10.0,20,2,10.0,True,False,False,1,2026-07-13,2026-08-31
+4182,4182 Sonda,2026-07,,,1.0,,9.0,7,2,3.5,True,False,False,1,2026-07-27,2026-08-24
+4183,4183 Olá Costanera,2026-07,,,1.0,,9.0,33,2,16.5,True,False,False,1,2026-07-23,2026-08-31
+4184,4184 Habilitación Laboratorio Clínico UC Christus,2026-07,,,1.0,,9.0,6,2,3.0,True,False,False,1,2026-07-23,2026-08-24
+4185,4185 Edificio Tres,2026-07,,,1.0,,9.0,14,2,7.0,True,False,False,1,2026-07-29,2026-08-28
+4186,4186 Edificio Vicuña Mackenna,2026-07,,,1.0,,9.0,6,2,3.0,True,False,False,1,2026-07-29,2026-08-28
+4187,4187 Habilitación Centro Medico Deportivo UC Christus- Claro Arenas,2026-08,,,1.0,,9.0,4,1,4.0,True,False,False,1,2026-08-05,2026-08-31
+4188,4188 Edificio El Rosal Oriente lll,2026-08,,,1.0,,10.0,4,1,4.0,True,False,False,1,2026-08-11,2026-08-28
+4189,4189 Lira Parque,2026-08,,,1.0,,9.0,31,1,31.0,True,False,False,1,2026-08-03,2026-08-27
+4190,4190 Fuenzalida Urrejola,2026-08,,,1.0,,9.0,7,1,7.0,True,False,False,1,2026-08-18,2026-08-31
+4192,"4192 Habilitación De Oficinas Assa y Salas De Operaciones, Nave 2 Modulo 7-8",2026-08,,,1.0,,9.0,1,1,1.0,True,False,False,1,2026-08-27,2026-08-27
