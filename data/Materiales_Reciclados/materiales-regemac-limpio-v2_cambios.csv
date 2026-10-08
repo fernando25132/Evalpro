@@ -1,0 +1,9 @@
+cambio,filas
+"Eliminar basura (Santa Marta, ~$33/kg): residuos de la operación, no RCD (Rodrigo)",52
+Eliminar filas con 0 kg,16
+"Eliminar duplicados (misma factura, fecha, material y kg)",2
+"Reclasificar madera→fierro (ECO CICLO, $170-180/kg)",3
+Reclasificar fierro→aluminio ($1.350/kg),1
+Reclasificar aluminio→fierro ($190/kg),1
+Madera RECUPAC: forzar costo a -$17/kg (signo original no confiable),1242
+Neumáticos: pasar a costo (Rodrigo),3
